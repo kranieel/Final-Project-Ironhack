@@ -1,0 +1,192 @@
+,Name,Country
+0,Ames,U.S.A.
+1,Avak,U.S.A.
+2,Barringer,U.S.A.
+3,Beaverhead,U.S.A.
+4,Brent,Canada
+5,Calvin,USA
+6,Carswell,Canada
+7,Charlevoix,Canada
+8,Chesapeake Bay,U.S.A.
+9,Chicxulub,Mexico
+10,Clearwater East,Canada
+11,Clearwater West,Canada
+12,Cloud Creek,USA
+13,Couture,Canada
+14,Crooked Creek,U.S.A.
+15,Decaturville,U.S.A.
+16,Deep Bay,Canada
+17,Des Plaines,U.S.A.
+18,Eagle Butte,Canada
+19,Elbow,Canada
+20,Flynn Creek,U.S.A.
+21,Glasford,U.S.A.
+22,Glover Bluff,U.S.A.
+23,Gow,Canada
+24,Haughton,Canada
+25,Haviland,U.S.A.
+26,Holleford,Canada
+27,Ile Rouleau,Canada
+28,Kentland,U.S.A.
+29,La Moinerie,Canada
+30,Manicouagan,Canada
+31,Manson,U.S.A.
+32,Maple Creek,Canada
+33,Marquez,U.S.A.
+34,Middlesboro,U.S.A.
+35,Mistastin,Canada
+36,Montagnais,Canada
+37,Newporte,U.S.A.
+38,New Quebec,Canada
+39,Nicholson,Canada
+40,Odessa,U.S.A.
+41,Pilot,Canada
+42,Presqu'ile,Canada
+43,Red Wing,U.S.A.
+44,Rock Elm,U.S.A.
+45,Saint Martin,Canada
+46,Santa Fe,U.S.A.
+47,Serpent Mound,U.S.A.
+48,Sierra Madera,U.S.A.
+49,Slate Islands,Canada
+50,Steen River,Canada
+51,Sudbury,Canada
+52,Tunnunik (formerly Prince Albert),Arctic Canada
+53,Upheaval Dome,U.S.A.
+54,Viewfield,Canada
+55,Wanapitei,Canada
+56,Wells Creek,U.S.A.
+57,West Hawk,Canada
+58,Wetumpka,U.S.A.
+59,Whitecourt,Canada 
+60,Araguainha,Brazil
+61,Campo Del Cielo,Argentina
+62,Carancas,Peru
+63,Colônia, Brazil
+64,Monturaqui,Chile
+65,Riachão Ring,Brazil
+66,Rio Cuarto,Argentina
+67,Santa Marta,Brazil
+68,Serra da Cangalha,Brazil
+69,Vargeão Dome,Brazil
+70,Vista Alegre,Brazil
+71,Boltysh,Ukraine
+72,Dellen,Sweden
+73,Dobele,Latvia
+74,Gardnos,Norway
+75,Granby,Sweden
+76,Hummeln,Sweden
+77,Ilumetsä,Estonia
+78,Ilyinets,Ukraine
+79,Iso-Naakkima,Finland
+80,Kaalijärv,Estonia
+81,Kärdla,Estonia
+82,Karikkoselkä,Finland
+83,Keurusselkä,Finland
+84,Lappajärvi,Finland
+85,Lockne,Sweden
+86,Logoisk,Belarus
+87,Lumparn,Finland
+88,Målingen,Sweden
+89,Mien,Sweden
+90,Mizarai,Lithuania
+91,Mjølnir,Norway
+92,Morasko,Poland
+93,Neugrund,Estonia
+94,Obolon',Ukraine
+95,Paasselkä,Finland
+96,Ries,Germany
+97,Ritland,Norway
+98,Rochechouart,France
+99,Rotmistrovka,Ukraine
+100,Sääksjärvi,Finland
+101,Saarijärvi,Finland
+102,Siljan,Sweden
+103,Söderfjärden,Finland
+104,Steinheim,Germany
+105,Suvasvesi N,Finland
+106,Suvasvesi S,Finland
+107,Ternovka,Ukraine
+108,Tvären,Sweden
+109,Vepriai,Lithuania
+110,Zapadnaya,Ukraine
+111,Zeleny Gai,Ukraine
+112,Agoudal,Morocco
+113,Amguid,Algeria
+114,Aorounga,Chad
+115,Aouelloul,Mauritania
+116,Bosumtwi,Ghana
+117,B.P. Structure,Libya
+118,Gweni-Fada,Chad
+119,Kalkkop,South Africa
+120,Kamil,Egypt
+121,Kgagodi,Botswana
+122,Luizi,DRCongo
+123,Morokweng,South Africa
+124,Oasis,Libya
+125,Ouarkziz,Algeria
+126,Roter Kamm,Namibia
+127,Talemzane,Algeria
+128,Tenoumer,Mauritania
+129,Tin Bider,Algeria
+130,Tswaing (formerly Pretoria Saltpan),South Africa
+131,Vredefort,South Africa
+132,Beyenchime-Salaatin,Russia
+133,Bigach,Kazakhstan
+134,Chiyli,Kazakhstan
+135,Chukcha,Russia
+136,Dhala,India
+137,El'gygytgyn,Russia
+138,Gusev,Russia
+139,Jänisjärvi,Russia
+140,Jebel Waqf as Suwwan ,Jordan
+141,Kaluga,Russia
+142,Kamensk,Russia
+143,Kara,Russia
+144,Kara-Kul,Tajikistan
+145,Karla,Russia
+146,Kursk,Russia
+147,Logancha,Russia
+148,Lonar,India
+149,Macha,Russia
+150,Mishina Gora,Russia
+151,Popigai,Russia
+152,Puchezh-Katunki,Russia
+153,Ragozinka,Russia
+154,Saqqar,Saudi Arabia
+155,Shunak,Kazakhstan
+156,Sikhote Alin,Russia
+157,Sobolev,Russia
+158,Suavjärvi,Russia
+159,Tabun-Khara-Obo,Mongolia
+160,Wabar,Saudi Arabia
+161,Xiuyan,China
+162,Zhamanshin,Kazakhstan
+163,Acraman,Australia
+164,Amelia Creek,Australia
+165,Boxhole,Australia
+166,Connolly Basin,Australia
+167,Crawford,Australia
+168,Dalgaranga,Australia
+169,Flaxman,Australia
+170,Foelsche,Australia
+171,Glikson,Australia
+172,Goat Paddock,Australia
+173,Gosses Bluff,Australia
+174,Goyder,Australia
+175,Henbury,Australia
+176,Kelly West,Australia
+177,Lawn Hill,Australia
+178,Liverpool,Australia
+179,Matt Wilson,Australia
+180,Mount Toondina,Australia
+181,Piccaninny,Australia
+182,"Shoemaker
+          (formerly Teague)",Australia
+183,Spider,Australia
+184,Strangways,Australia
+185,Tookoonooka,Australia
+186,Veevers,Australia
+187,Wolfe Creek,Australia
+188,Woodleigh,Australia
+189,Yarrabubba,Australia

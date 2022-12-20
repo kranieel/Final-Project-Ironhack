@@ -1,0 +1,204 @@
+,Company,Location,Date,Time,Rocket,Mission,RocketStatus,Price,MissionStatus
+24,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA",1958,08:42:00,Thor-DM 18 Able I,Pioneer 1,Retired,,Partial Failure
+27,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA",1958,07:30:00,Thor-DM 18 Able I,Pioneer 2,Retired,,Failure
+43,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1959,08:19:00,Atlas-D Mercury,Big Joe 1,Retired,,Partial Failure
+66,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1960,13:13:00,Atlas-D Mercury,Mercury-Atlas 1 (MA-1),Retired,,Failure
+80,NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1960,14:00:00,Mercury-Redstone,Mercury-Redstone 1 (MR-1),Retired,,Failure
+84,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",1960,21:14:00,Scout X-1,Explorer (S-56),Retired,,Failure
+87,NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1960,16:15:00,Mercury-Redstone,Mercury-Redstone 1A (MR-1A),Retired,,Success
+90,NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1961,16:55:00,Mercury-Redstone,Mercury-Redstone 2 (MR-2),Retired,,Success
+94,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",1961,13:05:00,Scout X-1,Explorer 9 (S-56A),Retired,,Success
+97,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1961,14:12:00,Atlas-D Mercury,Mercury-Atlas 2 (MA-2),Retired,,Success
+100,NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1961,17:30:00,Mercury-Redstone,Mercury-Redstone BD (MR-BD),Retired,,Success
+106,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1961,16:15:00,Atlas-D Mercury,Mercury-Atlas 3 (MA-3),Retired,,Failure
+107,NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1961,14:34:00,Mercury-Redstone,Freedom 7 (MR-3),Retired,,Success
+111,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",1961,17:09:00,Scout X-1,Explorer (S-55),Retired,,Failure
+115,NASA,"LC-5, Cape Canaveral AFS, Florida, USA",1961,12:36:00,Mercury-Redstone,Liberty Bell 7 (MR-4),Retired,,Success
+121,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",1961,18:29:00,Scout X-1,Explorer 13,Retired,,Partial Failure
+125,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1961,14:04:00,Atlas-D Mercury,Mercury-Atlas 4 (MA-4),Retired,,Success
+131,NASA,"LC-18B, Cape Canaveral AFS, Florida, USA",1961,15:32:00,Blue Scout II,Mercury-Scout 1 (MS-1),Retired,,Failure
+137,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1961,15:08:00,Atlas-D Mercury,Mercury-Atlas 5 (MA-5),Retired,,Success
+146,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1962,14:47:00,Atlas-D Mercury,Friendship 7 (MA-6),Retired,,Success
+158,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",1962,10:49:00,Scout X-2,Solrad 4B,Retired,,Failure
+165,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1962,12:45:00,Atlas-D Mercury,Aurora 7 (MA-7),Retired,,Success
+201,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1962,09:13:00,Atlas-D Mercury,Sigma 7 (MA-8),Retired,,Success
+220,NASA,"LA-3, Wallops Flight Facility, Virginia, USA",1962,14:33:00,Scout X-3,Explorer 16 (S-55B),Retired,,Success
+236,NASA,"LC-14, Cape Canaveral AFS, Florida, USA",1963,13:04:00,Atlas-D Mercury,Faith 7 (MA-9),Retired,,Success
+264,NASA,"SLC-5, Vandenberg AFB, California, USA",1963,18:49:00,Scout X-4,Explorer 19 (AD-A),Retired,,Success
+265,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1964,16:25:00,Saturn I,SA-5,Retired,,Success
+277,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1964,16:01:00,Titan II GLV,Gemini 1,Retired,,Success
+284,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1964,17:07:00,Saturn I,A-101,Retired,,Success
+306,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1964,16:22:00,Saturn I,A-102,Retired,,Success
+326,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1965,14:04:00,Titan II GLV,Gemini 2,Retired,,Success
+332,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1965,14:37:00,Saturn I,A-103,Retired,,Success
+345,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1965,14:24:00,Titan II GLV,Gemini 3,Retired,,Success
+355,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1965,07:35:00,Saturn I,A-104,Retired,,Success
+359,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1965,15:15:00,Titan II GLV,Gemini IV,Retired,,Success
+373,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1965,13:00:00,Saturn I,A-105,Retired,,Success
+378,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1965,13:59:00,Titan II GLV,Gemini V,Retired,,Success
+403,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1965,19:30:00,Titan II GLV,Gemini VII,Retired,,Success
+405,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1965,13:37:00,Titan II GLV,Gemini VI-A,Retired,,Success
+424,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1966,16:12:00,Saturn IB,AS-201,Retired,,Success
+444,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1966,16:41:00,Titan II GLV,Gemini VIII,Retired,,Partial Failure
+450,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1966,13:39:00,Titan II GLV,Gemini IX-A,Retired,,Partial Failure
+458,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1966,14:53:00,Saturn IB,AS-203,Retired,,Success
+465,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1966,22:20:00,Titan II GLV,Gemini X,Retired,,Success
+474,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1966,17:15:00,Saturn IB,AS-202,Retired,,Success
+478,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1966,14:42:00,Titan II GLV,Gemini XI,Retired,,Success
+497,NASA,"LC-19, Cape Canaveral AFS, Florida, USA",1966,20:46:00,Titan II GLV,Gemini XII,Retired,,Success
+516,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1967,23:31:00,Saturn IB,Apollo 1,Retired,,Failure
+607,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1967,12:00:00,Saturn V,Apollo 4,Retired,"1,160.00",Success
+623,NASA,"SLC-37B, Cape Canaveral AFS, Florida, USA",1968,22:48:00,Saturn IB,Apollo 5,Retired,,Success
+640,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1968,12:00:00,Saturn V,Apollo 6,Retired,"1,160.00",Partial Failure
+697,NASA,"LC-34, Cape Canaveral AFS, Florida, USA",1968,15:02:00,Saturn IB,Apollo 7,Retired,,Success
+720,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1968,12:51:00,Saturn V,Apollo 8,Retired,"1,160.00",Success
+739,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969,16:00:00,Saturn V,Apollo 9,Retired,"1,160.00",Success
+763,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1969,16:49:00,Saturn V,Apollo 10,Retired,"1,160.00",Success
+778,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969,13:32:00,Saturn V,Apollo 11,Retired,"1,160.00",Success
+812,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1969,16:22:00,Saturn V,Apollo 12,Retired,"1,160.00",Success
+848,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1970,19:13:00,Saturn V,Apollo 13,Retired,"1,160.00",Success
+939,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971,21:03:00,Saturn V,Apollo 14,Retired,"1,160.00",Success
+995,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1971,13:34:00,Saturn V,Apollo 15,Retired,"1,160.00",Success
+1080,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972,17:54:00,Saturn V,Apollo 16,Retired,"1,160.00",Success
+1143,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1972,19:24:00,Saturn V,Apollo 17,Retired,"1,160.00",Success
+1174,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1973,17:30:00,Saturn V,Skylab 1,Retired,"1,160.00",Success
+1182,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1973,13:00:00,Saturn IB,Skylab 2,Retired,,Success
+1200,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1973,11:10:00,Saturn IB,Skylab 3,Retired,,Success
+1235,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1973,14:01:00,Saturn IB,Skylab 4,Retired,,Success
+1412,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1975,19:50:00,Saturn IB,ASTP (Apollo???Soyuz Test Project),Retired,,Success
+1915,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1981,12:00:00,Space Shuttle Columbia,STS-1,Retired,450,Success
+1952,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1981,15:09:00,Space Shuttle Columbia,STS-2,Retired,450,Success
+1975,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982,16:00:00,Space Shuttle Columbia,STS-3,Retired,450,Success
+2000,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982,16:09:00,Space Shuttle Columbia,STS-4,Retired,450,Success
+2023,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1982,12:19:00,Space Shuttle Columbia,STS-5,Retired,450,Success
+2045,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983,18:30:00,Space Shuttle Challenger,STS-6,Retired,450,Success
+2062,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983,11:33:00,Space Shuttle Challenger,STS-7,Retired,450,Success
+2077,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983,07:40:00,Space Shuttle Challenger,STS-8,Retired,450,Success
+2090,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1983,16:00:00,Space Shuttle Columbia,STS-9,Retired,450,Success
+2103,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1984,13:00:00,Space Shuttle Challenger,STS-41-B,Retired,450,Success
+2113,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1984,13:58:00,Space Shuttle Challenger,STS-41-C,Retired,450,Success
+2143,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1984,12:41:00,Space Shuttle Discovery,STS-41-D,Retired,450,Success
+2151,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1984,11:03:00,Space Shuttle Challenger,STS-41-G,Retired,450,Success
+2155,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1984,12:15:00,Space Shuttle Discovery,STS-51-A,Retired,450,Success
+2170,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,19:50:00,Space Shuttle Discovery,STS-51-C,Retired,450,Success
+2182,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,13:59:00,Space Shuttle Discovery,STS-51-D,Retired,450,Success
+2187,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,16:02:00,Space Shuttle Challenger,STS-51-B,Retired,450,Success
+2194,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,11:33:00,Space Shuttle Discovery,STS-51-G,Retired,450,Success
+2202,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,21:00:00,Space Shuttle Challenger,STS-51-F,Retired,450,Success
+2208,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,10:58:00,Space Shuttle Discovery,STS-51-I,Retired,450,Success
+2219,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,15:15:00,Space Shuttle Atlantis,STS-51-J,Retired,450,Success
+2229,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,17:00:00,Space Shuttle Challenger,STS-61-A,Retired,450,Success
+2232,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1985,00:29:00,Space Shuttle Atlantis,STS-61-B,Retired,450,Success
+2240,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1986,11:55:00,Space Shuttle Columbia,STS-61-C,Retired,450,Success
+2244,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1986,16:38:00,Space Shuttle Challenger,STS-51-L,Retired,450,Failure
+2401,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1988,15:37:00,Space Shuttle Discovery,STS-26R,Retired,450,Success
+2410,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1988,14:30:00,Space Shuttle Atlantis,STS-27R,Retired,450,Success
+2427,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1989,14:57:00,Space Shuttle Discovery,STS-29R,Retired,450,Success
+2432,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1989,18:46:00,Space Shuttle Atlantis,STS-30R,Retired,450,Success
+2446,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1989,12:37:00,Space Shuttle Columbia,STS-28R,Retired,450,Success
+2459,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1989,16:53:00,Space Shuttle Atlantis,STS-34R,Retired,450,Success
+2462,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1989,00:23:00,Space Shuttle Discovery,STS-33R,Retired,450,Success
+2469,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990,12:35:00,Space Shuttle Columbia,STS-32,Retired,450,Success
+2485,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990,07:50:00,Space Shuttle Atlantis,STS-36,Retired,450,Success
+2498,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990,12:33:00,Space Shuttle Discovery,STS-31,Retired,450,Success
+2530,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990,11:47:00,Space Shuttle Discovery,STS-41,Retired,450,Success
+2536,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1990,23:48:00,Space Shuttle Atlantis,STS-38,Retired,450,Success
+2544,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1990,06:49:00,Space Shuttle Columbia,STS-35,Retired,450,Success
+2563,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991,14:22:00,Space Shuttle Atlantis,STS-37,Retired,450,Success
+2568,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991,11:33:00,Space Shuttle Discovery,STS-39,Retired,450,Success
+2573,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1991,13:24:00,Space Shuttle Columbia,STS-40,Retired,450,Success
+2582,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991,15:02:00,Space Shuttle Atlantis,STS-43,Retired,450,Success
+2591,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991,23:11:00,Space Shuttle Discovery,STS-48,Retired,450,Success
+2599,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1991,23:44:00,Space Shuttle Atlantis,STS-44,Retired,450,Success
+2607,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992,14:52:00,Space Shuttle Discovery,STS-42,Retired,450,Success
+2618,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992,13:13:00,Space Shuttle Atlantis,STS-45,Retired,450,Success
+2623,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992,23:40:00,Space Shuttle Endeavour,STS-49,Retired,450,Success
+2628,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992,16:12:00,Space Shuttle Columbia,STS-50,Retired,450,Success
+2637,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992,13:56:00,Space Shuttle Atlantis,STS-46,Retired,450,Success
+2646,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992,14:23:00,Space Shuttle Endeavour,STS-47,Retired,450,Success
+2652,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1992,17:09:00,Space Shuttle Columbia,STS-52,Retired,450,Success
+2663,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1992,13:24:00,Space Shuttle Discovery,STS-53,Retired,450,Success
+2671,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993,13:59:00,Space Shuttle Endeavour,STS-54,Retired,450,Success
+2685,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993,05:29:00,Space Shuttle Discovery,STS-56,Retired,450,Success
+2690,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1993,14:50:00,Space Shuttle Columbia,STS-55,Retired,450,Success
+2697,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993,13:07:00,Space Shuttle Endeavour,STS-57,Retired,450,Success
+2711,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993,11:45:00,Space Shuttle Discovery,STS-51,Retired,450,Success
+2718,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993,14:53:00,Space Shuttle Columbia,STS-58,Retired,450,Success
+2725,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1993,09:27:00,Space Shuttle Endeavour,STS-61,Retired,450,Success
+2733,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994,12:10:00,Space Shuttle Discovery,STS-60,Retired,450,Success
+2739,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1994,13:53:00,Space Shuttle Columbia,STS-62,Retired,450,Success
+2743,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994,11:05:00,Space Shuttle Endeavour,STS-59,Retired,450,Success
+2755,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994,04:43:00,Space Shuttle Columbia,STS-65,Retired,450,Success
+2771,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1994,22:22:00,Space Shuttle Discovery,STS-64,Retired,450,Success
+2773,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1994,11:16:00,Space Shuttle Endeavour,STS-68,Retired,450,Success
+2781,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1994,16:59:00,Space Shuttle Atlantis,STS-66,Retired,450,Success
+2799,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995,05:22:00,Space Shuttle Discovery,STS-63,Retired,450,Success
+2800,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995,06:38:00,Space Shuttle Endeavour,STS-67,Retired,450,Success
+2820,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995,19:32:00,Space Shuttle Atlantis,STS-71,Retired,450,Success
+2824,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995,13:41:00,Space Shuttle Discovery,STS-70,Retired,450,Success
+2834,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995,15:09:00,Space Shuttle Endeavour,STS-69,Retired,450,Success
+2838,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1995,13:53:00,Space Shuttle Columbia,STS-73,Retired,450,Success
+2844,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1995,12:30:00,Space Shuttle Atlantis,STS-74,Retired,450,Success
+2855,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996,09:41:00,Space Shuttle Endeavour,STS-72,Retired,450,Success
+2864,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996,20:18:00,Space Shuttle Columbia,STS-75,Retired,450,Success
+2869,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996,08:13:00,Space Shuttle Atlantis,STS-76,Retired,450,Success
+2880,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996,10:30:00,Space Shuttle Endeavour,STS-77,Retired,450,Success
+2884,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996,14:49:00,Space Shuttle Columbia,STS-78,Retired,450,Success
+2902,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1996,08:54:00,Space Shuttle Atlantis,STS-79,Retired,450,Success
+2910,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1996,11:49:00,Space Shuttle Columbia,STS-80,Retired,450,Success
+2915,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1997,09:27:00,Space Shuttle Atlantis,STS-81,Retired,450,Success
+2918,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997,08:55:00,Space Shuttle Discovery,STS-82,Retired,450,Success
+2927,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997,19:20:00,Space Shuttle Columbia,STS-83,Retired,450,Success
+2935,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997,08:07:00,Space Shuttle Atlantis,STS-84,Retired,450,Success
+2941,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997,18:02:00,Space Shuttle Columbia,STS-94,Retired,450,Success
+2946,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997,14:41:00,Space Shuttle Discovery,STS-85,Retired,450,Success
+2959,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1997,14:34:00,Space Shuttle Atlantis,STS-86,Retired,450,Success
+2973,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1997,19:46:00,Space Shuttle Columbia,STS-87,Retired,450,Success
+2987,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998,02:48:00,Space Shuttle Endeavour,STS-89,Retired,450,Success
+3003,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998,18:19:00,Space Shuttle Columbia,STS-90,Retired,450,Success
+3012,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998,22:06:00,Space Shuttle Discovery,STS-91,Retired,450,Success
+3042,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1998,19:19:00,Space Shuttle Discovery,STS-95,Retired,450,Success
+3045,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1998,08:35:00,Space Shuttle Endeavour,STS-88,Retired,450,Success
+3073,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1999,10:49:00,Space Shuttle Discovery,STS-96,Retired,450,Success
+3082,NASA,"LC-39B, Kennedy Space Center, Florida, USA",1999,04:31:00,Space Shuttle Columbia,STS-93,Retired,450,Success
+3105,NASA,"LC-39A, Kennedy Space Center, Florida, USA",1999,00:50:00,Space Shuttle Discovery,STS-103,Retired,450,Success
+3117,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2000,16:43:00,Space Shuttle Endeavour,STS-99,Retired,450,Success
+3129,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2000,10:11:00,Space Shuttle Atlantis,STS-101,Retired,450,Success
+3144,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2000,12:45:00,Space Shuttle Atlantis,STS-106,Retired,450,Success
+3151,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2000,23:17:00,Space Shuttle Discovery,STS-92,Retired,450,Success
+3161,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2000,03:06:00,Space Shuttle Endeavour,STS-97,Retired,450,Success
+3171,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2001,23:13:00,Space Shuttle Atlantis,STS-98,Retired,450,Success
+3174,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001,11:42:00,Space Shuttle Discovery,STS-102,Retired,450,Success
+3179,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2001,18:40:00,Space Shuttle Endeavour,STS-100,Retired,450,Success
+3186,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001,09:03:00,Space Shuttle Atlantis,STS-104,Retired,450,Success
+3192,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2001,21:10:00,Space Shuttle Discovery,STS-105,Retired,450,Success
+3205,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2001,22:19:00,Space Shuttle Endeavour,STS-108,Retired,450,Success
+3218,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002,11:22:00,Space Shuttle Columbia,STS-109,Retired,450,Success
+3224,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002,20:44:00,Space Shuttle Atlantis,STS-110,Retired,450,Success
+3231,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002,21:22:00,Space Shuttle Endeavour,STS-111,Retired,450,Success
+3247,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2002,19:45:00,Space Shuttle Atlantis,STS-112,Retired,450,Success
+3250,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2002,00:49:00,Space Shuttle Endeavour,STS-113,Retired,450,Success
+3261,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2003,15:39:00,Space Shuttle Columbia,STS-107,Retired,450,Failure
+3370,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2005,14:39:00,Space Shuttle Discovery,STS-114,Retired,450,Success
+3409,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006,18:37:00,Space Shuttle Discovery,STS-121,Retired,450,Success
+3418,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006,15:14:00,Space Shuttle Atlantis,STS-115,Retired,450,Success
+3432,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2006,00:47:00,Space Shuttle Discovery,STS-116,Retired,450,Success
+3456,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007,23:38:00,Space Shuttle Atlantis,STS-117,Retired,450,Success
+3465,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007,22:36:00,Space Shuttle Endeavour,STS-118,Retired,450,Success
+3476,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2007,03:38:00,Space Shuttle Discovery,STS-120,Retired,450,Success
+3489,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008,19:45:00,Space Shuttle Atlantis,STS-122,Retired,450,Success
+3492,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008,06:28:00,Space Shuttle Endeavour,STS-123,Retired,450,Success
+3506,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008,21:02:00,Space Shuttle Discovery,STS-124,Retired,450,Success
+3532,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2008,00:55:00,Space Shuttle Endeavour,STS-126,Retired,450,Success
+3544,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009,23:43:00,Space Shuttle Discovery,STS-119,Retired,450,Success
+3552,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009,18:01:00,Space Shuttle Atlantis,STS-125,Retired,450,Success
+3561,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009,22:03:00,Space Shuttle Endeavour,STS-127,Retired,450,Success
+3567,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009,03:59:00,Space Shuttle Discovery,STS-128,Retired,450,Success
+3575,NASA,"LC-39B, Kennedy Space Center, Florida, USA",2009,15:30:00,Ares 1-X,Ares 1-X Test Flight,Retired,450,Success
+3578,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2009,19:28:00,Space Shuttle Atlantis,STS-129,Retired,450,Success
+3586,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010,09:14:00,Space Shuttle Endeavour,STS-130,Retired,450,Success
+3590,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010,10:21:00,Space Shuttle Discovery,STS-131,Retired,450,Success
+3597,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2010,18:20:00,Space Shuttle Atlantis,STS-132,Retired,450,Success
+3628,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2011,21:53:00,Space Shuttle Discovery,STS-133,Retired,450,Success
+3636,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2011,12:56:00,Space Shuttle Endeavour,STS-134,Retired,450,Success
+3641,NASA,"LC-39A, Kennedy Space Center, Florida, USA",2011,15:29:00,Space Shuttle Atlantis,STS-135,Retired,450,Success

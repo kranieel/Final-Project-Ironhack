@@ -1,0 +1,152 @@
+,Company,Location,Date,Time,Rocket,Mission,RocketStatus,Price,MissionStatus
+3433,ULA,"SLC-2W, Vandenberg AFB, California, USA",2006,21:00:00,Delta II 7920-10C,NROL-21,Retired,,Success
+3440,ULA,"SLC-17B, Cape Canaveral AFS, Florida, USA",2007,23:01:00,Delta II 7925-10C,THEMIS,Retired,,Success
+3442,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2007,03:10:00,Atlas V 401,"STP-1, FalconSat-3",Active,109,Success
+3455,ULA,"SLC-2W, Vandenberg AFB, California, USA",2007,02:34:00,Delta II 7420-10C,COSMO-SkyMed,Retired,,Success
+3459,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2007,15:11:00,Atlas V 401,NROL-30 & NOSS-3,Active,109,Partial Failure
+3464,ULA,"SLC-17A, Cape Canaveral AFS, Florida, USA",2007,09:26:00,Delta II 7925,Phoenix,Retired,,Success
+3470,ULA,"SLC-2W, Vandenberg AFB, California, USA",2007,18:35:00,Delta II 7920-10C,DigitalGlobe WorldView-1,Retired,,Success
+3472,ULA,"SLC-17B, Cape Canaveral AFS, Florida, USA",2007,11:34:00,Delta II 7925H,Dawn,Retired,,Success
+3474,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2007,00:22:00,Atlas V 421,WSG-1,Active,123,Success
+3475,ULA,"SLC-17A, Cape Canaveral AFS, Florida, USA",2007,12:23:00,Delta II 7925,GPS IIRM-4,Retired,,Success
+3480,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2007,01:50:00,Delta IV Heavy,DSP-23,Active,350,Success
+3483,ULA,"SLC-2W, Vandenberg AFB, California, USA",2007,02:31:00,Delta II 7420-10C,COSMO-2,Retired,,Success
+3484,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2007,22:05:00,Atlas V 401,NROL-24,Active,109,Success
+3485,ULA,"SLC-17A, Cape Canaveral AFS, Florida, USA",2007,20:04:00,Delta II 7925,GPS IIRM-5,Retired,,Success
+3493,ULA,"SLC-3E, Vandenberg AFB, California, USA",2008,10:02:00,Atlas V 411,NROL-28,Retired,115,Success
+3494,ULA,"SLC-17A, Cape Canaveral AFS, Florida, USA",2008,06:10:00,Delta II 7925,GPS IIRM-6,Retired,,Success
+3497,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2008,20:12:00,Atlas V 421,ICO G1,Active,123,Success
+3508,ULA,"SLC-17B, Cape Canaveral AFS, Florida, USA",2008,16:05:00,Delta II 7920H-10C,GLAST,Retired,,Success
+3511,ULA,"SLC-2W, Vandenberg AFB, California, USA",2008,07:46:00,Delta II 7320-10C,Jason-2,Retired,,Success
+3520,ULA,"SLC-2W, Vandenberg AFB, California, USA",2008,18:50:00,Delta II 7420-10C,GeoEye-1,Retired,,Success
+3528,ULA,"SLC-2W, Vandenberg AFB, California, USA",2008,02:28:00,Delta II 7420-10C,COSMO-3,Retired,,Success
+3535,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2009,02:47:00,Delta IV Heavy,NROL-26,Active,350,Success
+3539,ULA,"SLC-2W, Vandenberg AFB, California, USA",2009,10:22:00,Delta II 7320-10C,NOAA-N Prime,Retired,,Success
+3543,ULA,"SLC-17B, Cape Canaveral AFS, Florida, USA",2009,03:49:00,Delta II 7925-10L,Kepler,Retired,,Success
+3546,ULA,"SLC-17A, Cape Canaveral AFS, Florida, USA",2009,08:34:00,Delta II 7925,GPS IIRM-7,Retired,,Success
+3547,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2009,00:31:00,Atlas V 421,WGS-2,Active,123,Success
+3551,ULA,"SLC-2W, Vandenberg AFB, California, USA",2009,20:24:00,Delta II 7920-10C,STSS-ATRR,Retired,,Success
+3555,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2009,17:32:00,Atlas V 421,LRO/LCROSS,Active,123,Success
+3557,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2009,22:51:00,"Delta IV Medium+ (4,2)",GOES-O,Retired,164,Success
+3564,ULA,"SLC-17A, Cape Canaveral AFS, Florida, USA",2009,10:35:00,Delta II 7925,GPS IIRM-8,Retired,,Success
+3568,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2009,21:35:00,Atlas V 401,PAN,Active,109,Success
+3571,ULA,"SLC-17B, Cape Canaveral AFS, Florida, USA",2009,12:20:00,Delta II 7920-10C,STSS Demo,Retired,,Success
+3573,ULA,"SLC-2W, Vandenberg AFB, California, USA",2009,18:51:00,Delta II 7920-10C,WorldView-2,Retired,,Success
+3574,ULA,"SLC-3E, Vandenberg AFB, California, USA",2009,16:12:00,Atlas V 401,DMSP-5D3-F18,Active,109,Success
+3579,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2009,06:55:00,Atlas V 431,Intersat 14,Retired,130,Success
+3582,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2009,01:47:00,"Delta IV Medium+ (5,4)",WGS-3,Retired,,Success
+3583,ULA,"SLC-2W, Vandenberg AFB, California, USA",2009,14:09:00,Delta II 7320-10C,WISE,Retired,,Success
+3587,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2010,15:23:00,Atlas V 401,SDO,Active,109,Success
+3588,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2010,23:57:00,"Delta IV Medium+ (4,2)",GOES 15,Retired,164,Success
+3593,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2010,23:52:00,Atlas V 501,OTV-1,Retired,120,Success
+3599,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2010,03:00:00,"Delta IV Medium+ (4,2)",GPS IIF-1,Retired,164,Success
+3609,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2010,11:07:00,Atlas V 531,AEHF-1,Active,140,Success
+3611,ULA,"SLC-3E, Vandenberg AFB, California, USA",2010,04:03:00,Atlas V 501,NROL-41,Retired,120,Success
+3615,ULA,"SLC-2W, Vandenberg AFB, California, USA",2010,02:20:00,Delta II 7420-10C,COSMO-4,Retired,,Success
+3617,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2010,22:58:00,Delta IV Heavy,NROL-32,Active,350,Success
+3623,ULA,"SLC-6, Vandenberg AFB, California, USA",2011,21:10:00,Delta IV Heavy,NROL-49,Active,350,Success
+3630,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2011,22:46:00,Atlas V 501,OTV-2,Retired,120,Success
+3631,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2011,22:38:00,"Delta IV Medium+ (4,2)",NROL-27,Retired,164,Success
+3632,ULA,"SLC-3E, Vandenberg AFB, California, USA",2011,04:24:00,Atlas V 411,NROL-34,Retired,115,Success
+3635,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2011,18:10:00,Atlas V 401,SBIRS GEO-1,Active,109,Success
+3638,ULA,"SLC-2W, Vandenberg AFB, California, USA",2011,14:20:00,Delta II 7320-10C,SAC-D,Retired,,Success
+3643,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2011,06:41:00,"Delta IV Medium+ (4,2)",GPS IIF-2,Retired,164,Success
+3645,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2011,16:25:00,Atlas V 551,Juno,Active,153,Success
+3648,ULA,"SLC-17B, Cape Canaveral AFS, Florida, USA",2011,13:08:00,Delta II 7920H-10C,GRAIL,Retired,,Success
+3658,ULA,"SLC-2W, Vandenberg AFB, California, USA",2011,09:48:00,Delta II 7920-10C,Suomi NPP / ELaNa III,Retired,,Success
+3661,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2011,15:02:00,Atlas V 541,Mars Science Laboratory,Active,145,Success
+3664,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2012,00:38:00,"Delta IV Medium+ (5,4)",WGS-4,Retired,,Success
+3667,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2012,22:15:00,Atlas V 551,MUOS-1,Active,153,Success
+3669,ULA,"SLC-6, Vandenberg AFB, California, USA",2012,23:12:00,"Delta IV Medium+ (5,2)",NROL-25,Retired,,Success
+3673,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2012,18:42:00,Atlas V 531,AEHF-2,Active,140,Success
+3681,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2012,12:28:00,Atlas V 401,NROL-38,Active,109,Success
+3682,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2012,13:15:00,Delta IV Heavy,NROL-15,Active,350,Success
+3688,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2012,08:05:00,Atlas V 401,Van Allen Probes (RBSP),Active,109,Success
+3690,ULA,"SLC-3E, Vandenberg AFB, California, USA",2012,21:39:00,Atlas V 401,NROL-36,Active,109,Success
+3693,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2012,12:10:00,"Delta IV Medium+ (4,2)",GPS IIF-3,Retired,164,Success
+3699,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2012,18:03:00,Atlas V 501,OTV-3,Retired,120,Success
+3705,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2013,01:48:00,Atlas V 401,TDRS-K,Active,109,Success
+3708,ULA,"SLC-3E, Vandenberg AFB, California, USA",2013,18:02:00,Atlas V 401,Landsat 8,Active,109,Success
+3711,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2013,21:21:00,Atlas V 401,SBIRS GEO-2,Active,109,Success
+3714,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2013,21:38:00,Atlas V 401,GPS IIF-4,Active,109,Success
+3715,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2013,00:27:00,"Delta IV Medium+ (5,4)",WGS-5,Retired,,Success
+3723,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2013,13:00:00,Atlas V 551,MUOS-2,Active,153,Success
+3726,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2013,00:29:00,"Delta IV Medium+ (5,4)",WGS-6,Retired,,Success
+3728,ULA,"SLC-6, Vandenberg AFB, California, USA",2013,18:03:00,Delta IV Heavy,NROL-65,Active,350,Success
+3735,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2013,08:10:00,Atlas V 531,AEHF-3,Active,140,Success
+3739,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2013,18:28:00,Atlas V 401,MAVEN,Active,109,Success
+3744,ULA,"SLC-3E, Vandenberg AFB, California, USA",2013,07:14:00,Atlas V 501,NROL-39,Retired,120,Success
+3751,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2014,02:33:00,Atlas V 401,TDRS-L,Active,109,Success
+3753,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2014,01:59:00,"Delta IV Medium+ (4,2)",GPS IIF-5,Retired,164,Success
+3756,ULA,"SLC-3E, Vandenberg AFB, California, USA",2014,14:46:00,Atlas V 401,DMSP-5D3 F19,Active,109,Success
+3760,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2014,17:45:00,Atlas V 541,NROL-67,Active,145,Success
+3763,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2014,00:03:00,"Delta IV Medium+ (4,2)",GPS IIF-6,Retired,164,Success
+3764,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2014,13:09:00,Atlas V 401,NROL-33,Active,109,Success
+3770,ULA,"SLC-2W, Vandenberg AFB, California, USA",2014,09:56:00,Delta II 7320-10C,OCO-2,Retired,,Success
+3776,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2014,23:28:00,"Delta IV Medium+ (4,2)",AFSPC-4,Retired,164,Success
+3778,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2014,03:23:00,Atlas V 401,GPS IIF-7,Active,109,Success
+3780,ULA,"SLC-3E, Vandenberg AFB, California, USA",2014,18:30:00,Atlas V 401,WorldView 3,Active,109,Success
+3784,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2014,00:10:00,Atlas V 401,CLIO,Active,109,Success
+3790,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2014,17:21:00,Atlas V 401,GPS IIF-8,Active,109,Success
+3794,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2014,12:05:00,Delta IV Heavy,EFT-1,Active,350,Success
+3796,ULA,"SLC-3E, Vandenberg AFB, California, USA",2014,03:19:00,Atlas V 541,NROL-35,Active,145,Success
+3802,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,01:04:00,Atlas V 551,MUOS-3,Active,153,Success
+3803,ULA,"SLC-2W, Vandenberg AFB, California, USA",2015,14:22:00,Delta II 7320-10C,SMAP / ELaNa X,Retired,,Success
+3810,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,02:44:00,Atlas V 421,MMS,Active,123,Success
+3811,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2015,18:36:00,"Delta IV Medium+ (4,2)",GPS IIF-9,Retired,164,Success
+3821,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,15:05:00,Atlas V 501,OTV-4,Retired,120,Success
+3826,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,15:36:00,Atlas V 401,GPS IIF-10,Active,109,Success
+3828,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2015,00:07:00,"Delta IV Medium+ (5,4)",WGS-7,Retired,,Success
+3832,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,10:18:00,Atlas V 551,MUOS-4,Active,153,Success
+3839,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,10:28:00,Atlas V 421,Morelos-3,Active,123,Success
+3840,ULA,"SLC-3E, Vandenberg AFB, California, USA",2015,12:49:00,Atlas V 401,NROL-55,Active,109,Success
+3841,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,16:13:00,Atlas V 401,GPS IIF-11,Active,109,Success
+3848,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2015,21:44:00,Atlas V 401,CRS OA-4,Active,109,Success
+3860,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,13:38:00,Atlas V 401,GPS IIF-12,Active,109,Success
+3863,ULA,"SLC-6, Vandenberg AFB, California, USA",2016,11:40:00,"Delta IV Medium+ (5,2)",NROL-45,Retired,,Success
+3872,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,03:05:00,Atlas V 401,CRS OA-6,Active,109,Success
+3890,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2016,17:51:00,Delta IV Heavy,NROL-37,Active,350,Success
+3896,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,14:30:00,Atlas V 551,MUOS-5,Active,153,Success
+3902,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,12:37:00,Atlas V 421,NROL-61,Active,123,Success
+3907,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2016,04:52:00,"Delta IV Medium+ (4,2)",AFSPC-6,Retired,164,Success
+3912,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,23:05:00,Atlas V 411,OSIRIS-REx,Retired,115,Success
+3925,ULA,"SLC-3E, Vandenberg AFB, California, USA",2016,18:30:00,Atlas V 401,WorldView-4,Active,109,Success
+3929,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,23:42:00,Atlas V 541,GOES-R (GOES-16),Active,145,Success
+3934,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2016,23:53:00,"Delta IV Medium+ (5,4)",WGS-8,Retired,,Success
+3938,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2016,19:13:00,Atlas V 431,EchoStar 19,Retired,130,Success
+3947,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2017,00:42:00,Atlas V 401,SBIRS GEO-3,Active,109,Success
+3954,ULA,"SLC-3E, Vandenberg AFB, California, USA",2017,17:49:00,Atlas V 401,NROL-79,Active,109,Success
+3959,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2017,00:18:00,"Delta IV Medium+ (5,4)",WGS-9,Retired,,Success
+3962,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2017,15:11:00,Atlas V 401,CRS OA-7,Active,109,Success
+3994,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2017,12:29:00,Atlas V 401,TDRS-M (TDRS-13),Active,109,Success
+4002,ULA,"SLC-3E, Vandenberg AFB, California, USA",2017,05:49:00,Atlas V 541,NROL-42,Active,145,Success
+4012,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2017,07:28:00,Atlas V 421,NROL-52,Active,123,Success
+4019,ULA,"SLC-2W, Vandenberg AFB, California, USA",2017,09:47:00,Delta II 7920-10C,JPSS-1,Retired,,Success
+4039,ULA,"SLC-6, Vandenberg AFB, California, USA",2018,22:11:00,"Delta IV Medium+ (5,2)",NROL-47,Retired,,Success
+4043,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2018,00:48:00,Atlas V 411,SBIRS GEO-4,Retired,115,Success
+4056,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2018,22:02:00,Atlas V 541,GOES-S (GOES-17),Active,145,Success
+4070,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2018,23:13:00,Atlas V 551,AFSPC-11,Active,153,Success
+4077,ULA,"SLC-3E, Vandenberg AFB, California, USA",2018,11:05:00,Atlas V 401,InSight,Active,109,Success
+4101,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2018,07:31:00,Delta IV Heavy,Parker Solar Probe,Active,350,Success
+4107,ULA,"SLC-2W, Vandenberg AFB, California, USA",2018,13:02:00,Delta II 7420-10C,ICESat-2,Retired,,Success
+4117,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2018,04:15:00,Atlas V 551,AEHF-4,Active,153,Success
+4156,ULA,"SLC-6, Vandenberg AFB, California, USA",2019,19:10:00,Delta IV Heavy,NROL-71,Active,350,Success
+4169,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2019,00:26:00,"Delta IV Medium+ (5,4)",WGS-10,Retired,,Success
+4211,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2019,10:13:00,Atlas V 551,AEHF 5,Active,153,Success
+4216,ULA,"SLC-37B, Cape Canaveral AFS, Florida, USA",2019,13:06:00,"Delta IV Medium+ (4,2)",GPS III SV02,Retired,164,Success
+4257,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2019,11:36:00,Atlas V N22,Starliner OFT,Active,,Success
+4272,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2020,04:03:00,Atlas V 411,Solar Orbiter,Retired,115,Success
+4285,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2020,20:18:00,Atlas V 551,AEHF 6,Active,153,Success
+4293,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2020,13:14:00,Atlas V 501,OTV-6 (USSF-7),Retired,120,Success
+4319,ULA,"SLC-41, Cape Canaveral AFS, Florida, USA",2020,11:50:00,Atlas V 541,Perseverance,Active,145,Success
+4354,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2020,22:32:00,Atlas V 531,NROL-101,Active,140,Success
+4368,ULA,"SLC-37B, Cape Canaveral SFS, Florida, USA",2020,01:09:00,Delta IV Heavy,NROL-44,Active,350,Success
+4418,ULA,"SLC-6, Vandenberg SFB, California, USA",2021,20:47:00,Delta IV Heavy,NROL-82,Active,350,Success
+4430,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2021,17:37:00,Atlas V 421,SBIRS GEO-5,Active,123,Success
+4484,ULA,"SLC-3E, Vandenberg SFB, California, USA",2021,18:12:00,Atlas V 401,Landsat 9 & Others,Active,109,Success
+4490,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2021,09:34:00,Atlas V 401,Lucy,Active,109,Success
+4516,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2021,10:19:00,Atlas V 551,STP-3,Active,153,Success
+4542,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2022,19:00:00,Atlas V 511,GSSAP 5 & 6 (USSF-8),Retired,130,Success
+4558,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2022,21:38:00,Atlas V 541,GOES-T (GOES-18),Active,145,Success
+4594,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2022,22:54:00,Atlas V N22,Starliner OFT-2,Active,,Success
+4613,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA",2022,23:15:00,Atlas V 541,USSF-12 (WFOV),Active,145,Success

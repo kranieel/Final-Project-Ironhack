@@ -1,0 +1,183 @@
+,Company,Location,Date,Time,Rocket,Mission,RocketStatus,Price,MissionStatus
+3394,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",2006,21:30:00,Falcon 1,FalconSat-2,Retired,7,Failure
+3444,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",2007,01:10:00,Falcon 1,DemoSat,Retired,7,Failure
+3515,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",2008,03:34:00,Falcon 1,Flight 3,Retired,7,Failure
+3523,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",2008,23:15:00,Falcon 1,RatSat,Retired,7,Success
+3560,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA",2009,03:35:00,Falcon 1,RazakSat,Retired,7,Success
+3601,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2010,18:45:00,Falcon 9 v1.0,Flight 1,Retired,59.5,Success
+3619,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2010,15:43:00,Falcon 9 v1.0,COTS-1,Retired,59.5,Success
+3676,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2012,07:44:00,Falcon 9 v1.0,COTS-2+,Retired,59.5,Success
+3694,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2012,00:35:00,Falcon 9 v1.0,CRS-1,Retired,59.5,Partial Failure
+3710,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2013,15:10:00,Falcon 9 v1.0,CRS-2,Retired,59.5,Success
+3737,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2013,16:00:00,Falcon 9 v1.1,CASSIOPE,Retired,56.5,Success
+3743,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2013,22:41:00,Falcon 9 v1.1,SES-8,Retired,56.5,Success
+3749,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2014,22:06:00,Falcon 9 v1.1,Thaicom 6,Retired,56.5,Success
+3761,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2014,19:25:00,Falcon 9 v1.1,CRS-3,Retired,56.5,Success
+3775,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2014,15:15:00,Falcon 9 v1.1,OG2 Mission 1,Retired,56.5,Success
+3779,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2014,08:00:00,Falcon 9 v1.1,AsiaSat 8,Retired,56.5,Success
+3782,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2014,05:00:00,Falcon 9 v1.1,AsiaSat 6,Retired,56.5,Success
+3785,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2014,05:52:00,Falcon 9 v1.1,CRS-4,Retired,56.5,Success
+3801,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,09:47:00,Falcon 9 v1.1,CRS-5,Retired,56.5,Success
+3807,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,23:03:00,Falcon 9 v1.1,DSCOVR,Retired,56.5,Success
+3809,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,03:50:00,Falcon 9 v1.1,ABS-3A & EUTELSAT 115 West B,Retired,56.5,Success
+3817,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,20:10:00,Falcon 9 v1.1,CRS-6,Retired,56.5,Success
+3819,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,23:03:00,Falcon 9 v1.1,Turkmen??lem52E/MonacoSat,Retired,56.5,Success
+3824,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,14:21:00,Falcon 9 v1.1,CRS-7,Retired,56.5,Failure
+3852,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2015,01:29:00,Falcon 9 Block 3,OG2 Mission 2,Retired,62,Success
+3854,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2016,18:42:00,Falcon 9 v1.1,Jason-3,Retired,56.5,Success
+3866,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,23:35:00,Falcon 9 Block 3,SES-9,Retired,62,Success
+3878,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,20:43:00,Falcon 9 Block 3,CRS-8,Retired,62,Success
+3882,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,05:21:00,Falcon 9 Block 3,JCSAT-14,Retired,62,Success
+3885,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,21:39:00,Falcon 9 Block 3,Thaicom 8,Retired,62,Success
+3892,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,14:29:00,Falcon 9 Block 3,ABS-2A & Eutelsat 117 West B,Retired,62,Success
+3901,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,04:45:00,Falcon 9 Block 3,CRS-9,Retired,62,Success
+3905,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,05:26:00,Falcon 9 Block 3,JCSAT-16,Retired,62,Success
+3910,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2016,13:07:00,Falcon 9 Block 3,AMOS-6,Retired,62,Prelaunch Failure
+3945,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2017,17:54:00,Falcon 9 Block 3,Iridium-1,Retired,62,Success
+3952,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,14:39:00,Falcon 9 Block 3,CRS-10,Retired,62,Success
+3957,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,06:00:00,Falcon 9 Block 3,Echostar 23,Retired,62,Success
+3960,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,22:27:00,Falcon 9 Block 3,SES-10,Retired,62,Success
+3965,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,11:15:00,Falcon 9 Block 3,NROL-76,Retired,62,Success
+3968,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,23:21:00,Falcon 9 Block 3,Inmarsat-5 F4,Retired,62,Success
+3974,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,21:07:00,Falcon 9 Block 3,CRS-11,Retired,62,Success
+3982,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,19:10:00,Falcon 9 Block 3,BulgariaSat-1,Retired,62,Success
+3983,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2017,20:25:00,Falcon 9 Block 3,Iridium-2,Retired,62,Success
+3986,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,20:25:00,Falcon 9 Block 3,Intelsat 35e,Retired,62,Success
+3992,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,16:31:00,Falcon 9 Block 4,CRS-12,Retired,62,Success
+3997,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2017,18:51:00,Falcon 9 Block 3,Formosat-5,Retired,62,Success
+4000,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,14:00:00,Falcon 9 Block 4,OTV-5,Retired,62,Success
+4007,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2017,12:37:00,Falcon 9 Block 4,Iridium-3,Retired,62,Success
+4009,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,22:53:00,Falcon 9 Block 3,SES-11 / EchoStar 105,Retired,62,Success
+4013,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2017,19:34:00,Falcon 9 Block 4,Koreasat 5A,Retired,62,Success
+4027,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2017,15:36:00,Falcon 9 Block 3,CRS-13,Retired,62,Success
+4031,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2017,01:27:00,Falcon 9 Block 3,Iridium-4,Retired,62,Success
+4035,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,01:00:00,Falcon 9 Block 4,Zuma,Retired,62,Success
+4047,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,21:25:00,Falcon 9 Block 3,GovSat-1 / SES-16,Retired,62,Success
+4051,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2018,20:45:00,Falcon Heavy,Test Flight,Active,90,Success
+4054,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2018,14:17:00,Falcon 9 Block 3,"PAZ & Tintin A, Tintin B",Retired,62,Success
+4057,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,05:33:00,Falcon 9 Block 4,Hispasat 30W-6,Retired,62,Success
+4064,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2018,14:14:00,Falcon 9 Block 4,Iridium-5,Retired,62,Success
+4066,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,20:30:00,Falcon 9 Block 4,CRS-14,Retired,62,Success
+4072,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,22:51:00,Falcon 9 Block 4,Transiting Exoplanet Survey Satellite (TESS),Retired,62,Success
+4079,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2018,20:14:00,Falcon 9 Block 5,Bangabandhu-1,Active,67,Success
+4082,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2018,19:47:00,Falcon 9 Block 4,Iridium-6 & GRACE-FO,Retired,62,Success
+4084,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,04:29:00,Falcon 9 Block 4,SES-12,Retired,62,Success
+4090,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,09:42:00,Falcon 9 Block 4,CRS-15,Retired,62,Success
+4095,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,05:50:00,Falcon 9 Block 5,Telstar 19V,Active,67,Success
+4097,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2018,11:39:00,Falcon 9 Block 5,Iridium-7,Active,67,Success
+4100,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,05:18:00,Falcon 9 Block 5,Merah Putih (Telkom-4),Active,67,Success
+4106,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,04:45:00,Falcon 9 Block 5,Telstar 18V / APStar 5C,Active,67,Success
+4113,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2018,02:21:00,Falcon 9 Block 5,SAOCOM 1A,Active,67,Success
+4129,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2018,20:46:00,Falcon 9 Block 5,Es'hail 2,Active,67,Success
+4138,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2018,18:34:00,Falcon 9 Block 5,Spaceflight SSO-A,Active,67,Success
+4140,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,18:16:00,Falcon 9 Block 5,CRS-16,Active,67,Success
+4148,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2018,13:51:00,Falcon 9 Block 5,GPS III SV01,Active,67,Success
+4153,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2019,15:31:00,Falcon 9 Block 5,Iridium-8,Active,67,Success
+4163,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,01:45:00,Falcon 9 Block 5,Nusantara Satu & Beresheet,Active,67,Success
+4165,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2019,07:49:00,Falcon 9 Block 5,SpaceX Demo-1,Active,67,Success
+4177,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2019,22:35:00,Falcon Heavy,ArabSat 6A,Active,90,Success
+4182,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,06:48:00,Falcon 9 Block 5,CRS-17,Active,67,Success
+4187,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,02:30:00,Falcon 9 Block 5,Starlink V0.9,Active,67,Success
+4191,SpaceX,"SLC-4E, Vandenberg AFB, California, USA",2019,14:17:00,Falcon 9 Block 5,RADARSAT Constellation,Active,67,Success
+4194,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2019,06:30:00,Falcon Heavy,STP-2,Active,90,Success
+4204,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,22:01:00,Falcon 9 Block 5,CRS-18,Active,67,Success
+4210,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,23:23:00,Falcon 9 Block 5,AMOS-17,Active,67,Success
+4236,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,14:56:00,Falcon 9 Block 5,Starlink V1 L1,Active,67,Success
+4245,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,17:29:00,Falcon 9 Block 5,CRS-19,Active,67,Success
+4254,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2019,00:10:00,Falcon 9 Block 5,JCSAT-18 / Kacific-1,Active,67,Success
+4261,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,02:19:00,Falcon 9 Block 5,Starlink V1 L2,Active,67,Success
+4266,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,15:30:00,Falcon 9 Block 5,Crew Dragon Inflight Abort Test,Active,67,Success
+4267,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,14:06:00,Falcon 9 Block 5,Starlink V1 L3,Active,67,Success
+4274,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,15:05:00,Falcon 9 Block 5,Starlink V1 L4,Active,67,Success
+4278,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,04:50:00,Falcon 9 Block 5,CRS-20,Active,67,Success
+4282,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,12:16:00,Falcon 9 Block 5,Starlink V1 L5,Active,67,Success
+4289,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,19:30:00,Falcon 9 Block 5,Starlink V1 L6,Active,67,Success
+4298,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,19:22:00,Falcon 9 Block 5,SpaceX Demo-2,Active,67,Success
+4300,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,01:25:00,Falcon 9 Block 5,Starlink V1 L7,Active,67,Success
+4303,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,09:21:00,Falcon 9 Block 5,Starlink V1 L8 & SkySat 16 to 18,Active,67,Success
+4306,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,20:10:00,Falcon 9 Block 5,GPS III SV03,Active,67,Success
+4315,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA",2020,21:30:00,Falcon 9 Block 5,ANASIS-II,Active,67,Success
+4321,SpaceX,"Pad A, Boca Chica, Texas, USA",2020,23:57:00,Starship Prototype,150 Meter Hop,Active,,Success
+4323,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,05:12:00,Falcon 9 Block 5,Starlink V1 L9 & BlackSky,Active,67,Success
+4325,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2020,14:31:00,Falcon 9 Block 5,Starlink V1 L10 & SkySat 19 to 21,Active,67,Success
+4327,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2020,23:18:00,Falcon 9 Block 5,SAOCOM 1B & Rideshares,Active,67,Success
+4330,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,12:46:00,Falcon 9 Block 5,Starlink V1 L11,Active,67,Success
+4340,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,11:29:00,Falcon 9 Block 5,Starlink V1 L12,Active,67,Success
+4344,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,12:25:00,Falcon 9 Block 5,Starlink V1 L13,Active,67,Success
+4345,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2020,15:31:00,Falcon 9 Block 5,Starlink V1 L14,Active,67,Success
+4349,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2020,23:24:00,Falcon 9 Block 5,GPS III-4,Active,67,Success
+4355,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,00:27:00,Falcon 9 Block 5,SpaceX Crew-1,Active,67,Success
+4358,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2020,17:17:00,Falcon 9 Block 5,Sentinel-6A Michael Freilich,Active,67,Success
+4360,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2020,02:13:00,Falcon 9 Block 5,Starlink V1 L15,Active,67,Success
+4365,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,16:17:00,Falcon 9 Block 5,CRS SpX-21,Active,67,Success
+4367,SpaceX,"Suborbital Pad A, Starbase, Texas, USA",2020,22:45:00,Starship Prototype,12.5-Kilometer Test Flight,Active,,Partial Failure
+4370,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2020,17:30:00,Falcon 9 Block 5,SXM-7,Active,67,Success
+4376,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2020,14:00:00,Falcon 9 Block 5,NROL-108,Active,67,Success
+4380,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,02:15:00,Falcon 9 Block 5,TÃ¼rksat 5A,Active,67,Success
+4385,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,13:02:00,Falcon 9 Block 5,Starlink V1 L16,Active,67,Success
+4386,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,15:00:00,Falcon 9 Block 5,Transporter 1,Active,67,Success
+4390,SpaceX,"Suborbital Pad B, Starbase, Texas, USA",2021,20:25:00,Starship Prototype,10-Kilometer Test Flight,Active,,Partial Failure
+4392,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,06:19:00,Falcon 9 Block 5,Starlink V1 L18,Active,67,Success
+4395,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,03:59:00,Falcon 9 Block 5,Starlink V1 L19,Active,67,Success
+4400,SpaceX,"Suborbital Pad A, Starbase, Texas, USA",2021,23:14:00,Starship Prototype,10-Kilometer Test Flight,Active,,Partial Failure
+4401,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,08:24:00,Falcon 9 Block 5,Starlink V1 L17,Active,67,Success
+4402,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,08:13:00,Falcon 9 Block 5,Starlink V1 L20,Active,67,Success
+4405,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,10:01:00,Falcon 9 Block 5,Starlink V1 L21,Active,67,Success
+4408,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,08:28:00,Falcon 9 Block 5,Starlink V1 L22,Active,67,Success
+4410,SpaceX,"Suborbital Pad B, Starbase, Texas, USA",2021,13:00:00,Starship Prototype,10-Kilometer Test Flight,Active,,Failure
+4412,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,16:34:00,Falcon 9 Block 5,Starlink V1 L23,Active,67,Success
+4416,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,09:49:00,Falcon 9 Block 5,SpaceX Crew-2,Active,67,Success
+4422,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,03:44:00,Falcon 9 Block 5,Starlink V1 L24,Active,67,Success
+4424,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,19:01:00,Falcon 9 Block 5,Starlink V1 L25,Active,67,Success
+4425,SpaceX,"Suborbital Pad A, Starbase, Texas, USA",2021,22:25:00,Starship Prototype,10-Kilometer Test Flight,Active,,Success
+4427,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,06:42:00,Falcon 9 Block 5,Starlink V1 L27,Active,67,Success
+4429,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,22:56:00,Falcon 9 Block 5,Starlink V1 L26 & Rideshares,Active,67,Success
+4433,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,18:59:00,Falcon 9 Block 5,Starlink V1 L28,Active,67,Success
+4437,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,17:29:00,Falcon 9 Block 5,CRS SpX-22,Active,67,Success
+4438,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,04:26:00,Falcon 9 Block 5,SXM-8,Active,67,Success
+4443,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,16:09:00,Falcon 9 Block 5,GPS III-5,Active,67,Success
+4448,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,19:31:00,Falcon 9 Block 5,Transporter 2,Active,67,Success
+4473,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,07:14:00,Falcon 9 Block 5,CRS SpX-23,Active,67,Success
+4478,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2021,03:55:00,Falcon 9 Block 5,Starlink Group 2-1,Active,67,Success
+4480,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,00:02:00,Falcon 9 Block 5,Inspiration4,Active,67,Success
+4501,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,02:03:00,Falcon 9 Block 5,SpaceX Crew-3,Active,67,Success
+4502,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,12:19:00,Falcon 9 Block 5,Starlink Group 4-1,Active,67,Success
+4508,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2021,06:21:00,Falcon 9 Block 5,DART,Active,67,Success
+4513,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,23:12:00,Falcon 9 Block 5,Starlink Group 4-3 & BlackSky,Active,67,Success
+4519,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,06:00:00,Falcon 9 Block 5,IXPE,Active,67,Success
+4525,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2021,12:41:00,Falcon 9 Block 5,Starlink Group 4-4,Active,67,Success
+4526,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2021,03:58:00,Falcon 9 Block 5,TÃ¼rksat 5B,Active,67,Success
+4527,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2021,10:07:00,Falcon 9 Block 5,CRS SpX-24,Active,67,Success
+4537,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,21:49:00,Falcon 9 Block 5,Starlink Group 4-5,Active,67,Success
+4538,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,15:25:00,Falcon 9 Block 5,Transporter 3,Active,67,Success
+4541,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,02:02:00,Falcon 9 Block 5,Starlink Group 4-6,Active,67,Success
+4544,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,23:11:00,Falcon 9 Block 5,CSG-2,Active,67,Success
+4545,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,20:27:00,Falcon 9 Block 5,NROL-87,Active,67,Success
+4546,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,18:13:00,Falcon 9 Block 5,Starlink Group 4-7,Active,67,Success
+4553,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,14:44:00,Falcon 9 Block 5,Starlink Group 4-8,Active,67,Success
+4554,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,17:12:00,Falcon 9 Block 5,Starlink Group 4-11,Active,67,Success
+4559,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,14:25:00,Falcon 9 Block 5,Starlink Group 4-9,Active,67,Success
+4562,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,13:45:00,Falcon 9 Block 5,Starlink Group 4-10,Active,67,Success
+4566,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,04:42:00,Falcon 9 Block 5,Starlink Group 4-12,Active,67,Success
+4571,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,16:24:00,Falcon 9 Block 5,Transporter 4,Active,67,Success
+4575,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,15:17:00,Falcon 9 Block 5,Axiom Mission 1 (Ax-1),Active,67,Success
+4578,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,13:13:00,Falcon 9 Block 5,NROL-85,Active,67,Success
+4579,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,17:51:00,Falcon 9 Block 5,Starlink Group 4-14,Active,67,Success
+4580,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,07:52:00,Falcon 9 Block 5,SpaceX Crew-4,Active,67,Success
+4583,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,21:27:00,Falcon 9 Block 5,Starlink Group 4-16,Active,67,Success
+4587,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,09:42:00,Falcon 9 Block 5,Starlink Group 4-17,Active,67,Success
+4590,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,22:07:00,Falcon 9 Block 5,Starlink Group 4-13,Active,67,Success
+4591,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,20:40:00,Falcon 9 Block 5,Starlink Group 4-15,Active,67,Success
+4592,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,10:59:00,Falcon 9 Block 5,Starlink Group 4-18,Active,67,Success
+4596,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,18:35:00,Falcon 9 Block 5,Transporter 5,Active,67,Success
+4601,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,21:04:00,Falcon 9 Block 5,Nilesat-301,Active,67,Success
+4602,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,16:09:00,Falcon 9 Block 5,Starlink Group 4-19,Active,67,Success
+4603,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,14:19:00,Falcon 9 Block 5,SARah 1,Active,67,Success
+4604,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,04:27:00,Falcon 9 Block 5,Globalstar FM15 & USA 328 to 331,Active,67,Success
+4611,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,21:04:00,Falcon 9 Block 5,SES-22,Active,67,Success
+4616,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,13:11:00,Falcon 9 Block 5,Starlink Group 4-21,Active,67,Success
+4617,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,01:39:00,Falcon 9 Block 5,Starlink Group 3-1,Active,67,Success
+4622,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,00:44:00,Falcon 9 Block 5,CRS SpX-25,Active,67,Success
+4624,SpaceX,"SLC-40, Cape Canaveral SFS, Florida, USA",2022,14:20:00,Falcon 9 Block 5,Starlink Group 4-22,Active,67,Success
+4625,SpaceX,"SLC-4E, Vandenberg SFB, California, USA",2022,17:39:00,Falcon 9 Block 5,Starlink Group 3-2,Active,67,Success
+4627,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA",2022,13:38:00,Falcon 9 Block 5,Starlink Group 4-25,Active,67,Success

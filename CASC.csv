@@ -1,0 +1,339 @@
+,Company,Location,Date,Time,Rocket,Mission,RocketStatus,Price,MissionStatus
+814,CASC,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China",1969,,Long March 1,Test flight,Retired,,Failure
+852,CASC,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China",1970,13:35:00,Long March 1,Dong Fang Hong 1,Retired,,Success
+948,CASC,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China",1971,12:15:00,Long March 1,Shijian 1,Retired,,Success
+1108,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1972,00:32:00,Feng Bao 1,Shiyan Peizhong,Retired,,Success
+1213,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1973,12:12:00,Feng Bao 1,JSSW-1,Retired,,Failure
+1305,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1974,13:55:00,Feng Bao 1,JSSW-2,Retired,,Failure
+1336,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1974,09:40:00,Long March 2,FSW-0 No.0,Retired,,Failure
+1416,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1975,13:30:00,Feng Bao 1,JSSW-3,Retired,,Success
+1446,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1975,03:29:00,Long March 2,FSW-0 No.1,Retired,,Success
+1457,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1975,09:21:00,Feng Bao 1,JSSW-4,Retired,,Success
+1539,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1976,11:45:00,Feng Bao 1,JSSW-5,Retired,,Success
+1558,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1976,09:05:00,Feng Bao 1,JSSW-6,Retired,,Failure
+1566,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1976,04:38:00,Long March 2,FSW-0 No.2,Retired,,Success
+1657,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1977,00:15:00,Feng Bao 1,DDDS 1,Retired,,Success
+1699,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1978,04:58:00,Long March 2,FSW-0 No.3,Retired,,Success
+1723,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1978,16:39:00,Feng Bao 1,DDDS 2,Retired,,Success
+1819,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1979,21:28:00,Feng Bao 1,Shijian 2A,Retired,,Failure
+1943,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1981,21:28:00,Feng Bao 1,Shijian 2,Retired,,Success
+2014,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1982,07:19:00,Long March 2C,FSW-0 No.4,Active,30.8,Success
+2074,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1983,06:00:00,Long March 2C,FSW-0 No.5,Active,30.8,Success
+2100,CASC,"LC-3, Xichang Satellite Launch Center, China",1984,12:25:00,Long March 3,STTW 1 (Dong Fang Hong 2),Retired,,Partial Failure
+2114,CASC,"LC-3, Xichang Satellite Launch Center, China",1984,11:20:00,Long March 3,STTW 2 (Dong Fang Hong 2),Retired,,Success
+2146,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1984,05:44:00,Long March 2C,FSW-0 No.6,Active,30.8,Success
+2222,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1985,05:04:00,Long March 2C,FSW-0 No.7,Active,30.8,Success
+2245,CASC,"LC-3, Xichang Satellite Launch Center, China",1986,12:27:00,Long March 3,DFH-2A-T1,Retired,,Success
+2282,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1986,05:40:00,Long March 2C,FSW-0 No.8,Active,30.8,Success
+2337,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1987,06:39:00,Long March 2C,FSW-0 No.9,Active,30.8,Success
+2343,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1987,07:15:00,Long March 2C,FSW-1 No.1,Active,30.8,Success
+2362,CASC,"LC-3, Xichang Satellite Launch Center, China",1988,12:41:00,Long March 3,DFH-2A-T2,Retired,,Success
+2391,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1988,07:29:00,Long March 2C,FSW-1 No.2,Active,30.8,Success
+2395,CASC,"Taiyuan Satellite Launch Center, China",1988,20:30:00,Long March 4A,Fengyun 1A,Retired,,Success
+2412,CASC,"LC-3, Xichang Satellite Launch Center, China",1988,12:40:00,Long March 3,DFH-2A-T3,Retired,,Success
+2477,CASC,"LC-3, Xichang Satellite Launch Center, China",1990,12:28:00,Long March 3,DFH-2A-T4,Retired,,Success
+2494,CASC,"LC-3, Xichang Satellite Launch Center, China",1990,13:30:00,Long March 3,AsiaSat 1,Retired,,Success
+2510,CASC,"LC-2, Xichang Satellite Launch Center, China",1990,00:40:00,Long March 2E,"Optus-B, Badr-1, mass simulator",Retired,,Success
+2523,CASC,"Taiyuan Satellite Launch Center, China",1990,00:53:00,Long March 4A,Fengyun-1B,Retired,,Success
+2529,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1990,06:14:00,Long March 2C,FSW-1 No.3,Active,30.8,Success
+2606,CASC,"LC-3, Xichang Satellite Launch Center, China",1991,12:00:00,Long March 3,DFH-2A-T5,Retired,,Partial Failure
+2639,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1992,08:00:00,Long March 2D,FSW-2 No.1,Active,29.75,Success
+2642,CASC,"LC-2, Xichang Satellite Launch Center, China",1992,23:00:00,Long March 2E,Optus-B1,Retired,,Success
+2648,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1992,06:20:00,Long March 2C,"FSW-1 No.4, Freja",Active,30.8,Success
+2665,CASC,"LC-2, Xichang Satellite Launch Center, China",1992,11:21:00,Long March 2E,Optus-B2,Retired,,Failure
+2717,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1993,08:00:00,Long March 2C,FSW-1 No.5,Active,30.8,Success
+2736,CASC,"LC-2, Xichang Satellite Launch Center, China",1994,08:34:00,Long March 3A,"Shijian 4, Kuafu-1 (mass simulator)",Active,69.7,Success
+2754,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1994,08:00:00,Long March 2D,FSW-2 No.2,Active,29.75,Success
+2758,CASC,"LC-3, Xichang Satellite Launch Center, China",1994,10:55:00,Long March 3,Apstar-1,Retired,,Success
+2766,CASC,"LC-2, Xichang Satellite Launch Center, China",1994,23:10:00,Long March 2E,Optus-B3,Retired,,Success
+2786,CASC,"LC-2, Xichang Satellite Launch Center, China",1994,17:02:00,Long March 3A,Chinasat-5,Active,69.7,Partial Failure
+2797,CASC,"LC-2, Xichang Satellite Launch Center, China",1995,22:40:00,Long March 2E,Apstar 2,Retired,,Failure
+2846,CASC,"LC-2, Xichang Satellite Launch Center, China",1995,11:30:00,Long March 2E,AsiaSat 2,Retired,,Success
+2853,CASC,"LC-2, Xichang Satellite Launch Center, China",1995,11:50:00,Long March 2E,EchoStar 1,Retired,,Success
+2861,CASC,"LC-2, Xichang Satellite Launch Center, China",1996,19:01:00,Long March 3B,Intelsat 708,Retired,,Failure
+2887,CASC,"LC-3, Xichang Satellite Launch Center, China",1996,10:47:00,Long March 3,Apstar 1A,Retired,,Success
+2894,CASC,"LC-3, Xichang Satellite Launch Center, China",1996,10:27:00,Long March 3,Chinasat-7,Retired,,Partial Failure
+2903,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China",1996,07:20:00,Long March 2D,FSW-2 No.3,Active,29.75,Success
+2933,CASC,"LC-2, Xichang Satellite Launch Center, China",1997,16:17:00,Long March 3A,ChinaSat 6,Active,69.7,Success
+2939,CASC,"LC-3, Xichang Satellite Launch Center, China",1997,12:01:00,Long March 3,Fengyun-2A,Retired,,Success
+2948,CASC,"LC-2, Xichang Satellite Launch Center, China",1997,17:50:00,Long March 3B,Agila-2,Retired,,Success
+2953,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1997,14:00:00,Long March 2C,Iridium mass simulator A&B,Active,30.8,Success
+2964,CASC,"LC-2, Xichang Satellite Launch Center, China",1997,19:13:00,Long March 3B,Apstar 2R,Retired,,Success
+2976,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1997,07:16:00,Long March 2C,Iridium 42 & 44,Active,30.8,Success
+3000,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1998,17:01:00,Long March 2C,Iridium 51 & 61,Active,30.8,Success
+3006,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1998,09:16:00,Long March 2C,Iridium 69 & 71,Active,30.8,Success
+3011,CASC,"LC-2, Xichang Satellite Launch Center, China",1998,10:00:00,Long March 3B,ChinaStar 1,Retired,,Success
+3015,CASC,"LC-2, Xichang Satellite Launch Center, China",1998,09:20:00,Long March 3B,SinoSat 1,Retired,,Success
+3025,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1998,23:01:00,Long March 2C,Iridium 76 & 78,Active,30.8,Success
+3050,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1998,11:39:00,Long March 2C,Iridium 88 & 89,Active,30.8,Success
+3070,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1999,01:33:00,Long March 4B,Fengyun 1C & Shijian-5,Active,64.68,Success
+3076,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1999,17:15:00,Long March 2C,Iridium 92 & 93,Active,30.8,Success
+3093,CASC,"LC-7, Taiyuan Satellite Launch Center, China",1999,03:15:00,Long March 4B,CBERS-1 & SACI 1,Active,64.68,Success
+3097,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",1999,22:30:00,Long March 2F,Shenzhou 1,Retired,,Success
+3112,CASC,"LC-2, Xichang Satellite Launch Center, China",2000,16:45:00,Long March 3A,ChinaSat-22,Active,69.7,Success
+3132,CASC,"LC-3, Xichang Satellite Launch Center, China",2000,11:50:00,Long March 3,Fengyun-2B,Retired,,Success
+3155,CASC,"LC-2, Xichang Satellite Launch Center, China",2000,16:02:00,Long March 3A,Beidou-1A,Active,69.7,Success
+3165,CASC,"LC-2, Xichang Satellite Launch Center, China",2000,16:20:00,Long March 3A,Beidou-1B,Active,69.7,Success
+3167,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2001,17:00:00,Long March 2F,Shenzhou 2,Retired,,Success
+3221,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2002,14:15:00,Long March 2F,Shenzhou 3,Retired,,Success
+3227,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2002,01:50:00,Long March 4B,Fengyun-1D & Haiyang-1A,Active,64.68,Success
+3248,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2002,03:17:00,Long March 4B,Ziyuan ll-02,Active,64.68,Success
+3258,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2002,16:40:00,Long March 2F,Shenzhou 4,Retired,,Success
+3276,CASC,"LC-2, Xichang Satellite Launch Center, China",2003,16:34:00,Long March 3A,Beidou-1C,Active,69.7,Success
+3298,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2003,01:00:00,Long March 2F,Shenzhou 5,Retired,,Success
+3301,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2003,03:16:00,Long March 4B,CBERS-2 & Chuangxin 1(01),Active,64.68,Success
+3303,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2003,07:20:00,Long March 2D,FSW-3 No.1,Active,29.75,Success
+3304,CASC,"LC-2, Xichang Satellite Launch Center, China",2003,16:01:00,Long March 3A,Chinasat-20,Active,69.7,Success
+3310,CASC,"LC-3, Xichang Satellite Launch Center, China",2003,19:06:00,Long March 2C,Double Star 1,Active,30.8,Success
+3319,CASC,"LC-3, Xichang Satellite Launch Center, China",2004,15:59:00,Long March 2C,Shiyan-1 & Nano Satellite 1,Active,30.8,Success
+3332,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2004,07:05:00,Long March 2C,Double Star 2,Active,30.8,Success
+3334,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2004,07:50:00,Long March 2C,FSW-4 No.1,Active,30.8,Success
+3337,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2004,23:14:00,Long March 4B,Shijian-6A & 6B,Active,64.68,Success
+3340,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2004,08:00:00,Long March 2D,FSW-3 No.2,Active,29.75,Success
+3341,CASC,"LC-2, Xichang Satellite Launch Center, China",2004,01:20:00,Long March 3A,Fengyun-2C,Active,69.7,Success
+3342,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2004,03:10:00,Long March 4B,Ziyuan ll-03,Active,64.68,Success
+3345,CASC,"LC-3, Xichang Satellite Launch Center, China",2004,10:45:00,Long March 2C,Shiyan-2,Active,30.8,Success
+3359,CASC,"LC-2, Xichang Satellite Launch Center, China",2005,12:00:00,Long March 3B,Apstar 6,Retired,,Success
+3368,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2005,22:40:00,Long March 2D,Shijian-7,Active,29.75,Success
+3371,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2005,07:30:00,Long March 2C,FSW-4 No. 2,Active,30.8,Success
+3376,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2005,08:45:00,Long March 2D,FSW-3 No. 3,Active,29.75,Success
+3381,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2005,20:32:00,Long March 2F,Shenzhou 6,Retired,,Success
+3400,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2006,22:48:00,Long March 4C,Yaogan 1,Active,64.68,Success
+3417,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2006,07:00:00,Long March 2C,Shijian-8,Active,30.8,Success
+3420,CASC,"LC-2, Xichang Satellite Launch Center, China",2006,16:02:00,Long March 3A,Chinasat-22A,Active,69.7,Success
+3424,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2006,23:34:00,Long March 4B,Shijian-6C & 6D,Active,64.68,Success
+3426,CASC,"LC-2, Xichang Satellite Launch Center, China",2006,16:20:00,Long March 3B,SinoSat 2,Retired,,Success
+3430,CASC,"LC-2, Xichang Satellite Launch Center, China",2006,00:53:00,Long March 3A,Fengyun-2D,Active,69.7,Success
+3439,CASC,"LC-2, Xichang Satellite Launch Center, China",2007,16:28:00,Long March 3A,Beidou-1D,Active,69.7,Success
+3445,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2007,03:27:00,Long March 2C,Haiyang-1B,Active,30.8,Success
+3446,CASC,"LC-2, Xichang Satellite Launch Center, China",2007,20:11:00,Long March 3A,Compass-M1,Active,69.7,Success
+3452,CASC,"LC-2, Xichang Satellite Launch Center, China",2007,16:01:00,Long March 3B/E,NIGCOMSAT-1,Active,29.15,Success
+3453,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2007,07:12:00,Long March 2D,Yaogan 2 & ZDPS-1,Active,29.75,Success
+3454,CASC,"LC-2, Xichang Satellite Launch Center, China",2007,16:08:00,Long March 3A,SinoSat 3,Active,69.7,Success
+3463,CASC,"LC-2, Xichang Satellite Launch Center, China",2007,20:08:00,Long March 3B,Chinasat-6B,Retired,,Success
+3471,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2007,03:26:00,Long March 4B,CBERS-2B,Active,64.68,Success
+3478,CASC,"LC-3, Xichang Satellite Launch Center, China",2007,10:05:00,Long March 3B,Chang'e 1,Retired,,Success
+3481,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2007,22:48:00,Long March 4C,Yaogan 3,Active,64.68,Success
+3500,CASC,"LC-2, Xichang Satellite Launch Center, China",2008,15:35:00,Long March 3C,Tianlian I-01,Retired,20.14,Success
+3505,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2008,03:02:00,Long March 4C,Fengyun-3A,Active,64.68,Success
+3507,CASC,"LC-2, Xichang Satellite Launch Center, China",2008,12:15:00,Long March 3B,ChinaSat 9,Retired,,Success
+3519,CASC,"LC-7, Taiyuan Satellite Launch Center, China",2008,03:25:00,Long March 2C/SMA,Huanjing-1A & 1B,Active,,Success
+3522,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2008,13:10:00,Long March 2F/G,Shenzhou 7,Active,,Success
+3527,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2008,01:15:00,Long March 4B,Shijian-6E & F,Active,64.68,Success
+3529,CASC,"LC-2, Xichang Satellite Launch Center, China",2008,16:53:00,Long March 3B/E,VENESAT 1,Active,29.15,Success
+3530,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2008,00:15:00,Long March 2D,Shiyan-3 & Chuangxin-1(02),Active,29.75,Success
+3531,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2008,00:15:00,Long March 2D,Shiyan-3 & Chuangxin-1(02),Active,29.75,Success
+3654,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2011,21:16:00,Long March 2F/T,Tiangong-1,Active,,Success
+3659,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2011,21:58:00,Long March 2F/G,Shenzhou 8,Active,,Success
+3680,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2012,10:37:00,Long March 2F/G,Shenzhou 9,Active,,Success
+3717,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2013,09:38:00,Long March 2F/G,Shenzhou 10,Active,,Success
+3834,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2015,23:01:00,Long March 6,Demo Flight,Active,19,Success
+3836,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2015,,Long March 11,Pujian 1 & Others,Active,5.3,Success
+3853,CASC,"LC-3, Xichang Satellite Launch Center, China",2016,16:57:00,Long March 3B/E,Belintersat 1,Active,29.15,Success
+3859,CASC,"LC-2, Xichang Satellite Launch Center, China",2016,07:29:00,Long March 3C/YZ-1,BeiDou M3-S,Active,,Success
+3874,CASC,"LC-2, Xichang Satellite Launch Center, China",2016,20:11:00,Long March 3A,BeiDou IGSO-6,Active,69.7,Success
+3877,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2016,17:38:00,Long March 2D,Shijian-10,Active,29.75,Success
+3883,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2016,02:43:00,Long March 2D,Yaogan 30,Active,29.75,Success
+3887,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2016,03:17:00,Long March 4B,"Ziyuan III-02 & ??uSat-1, 2",Active,64.68,Success
+3891,CASC,"LC-3, Xichang Satellite Launch Center, China",2016,15:30:00,Long March 3C/E,BeiDou-2 G7,Active,20,Success
+3897,CASC,"LC-201, Wenchang Satellite Launch Center, China",2016,12:00:00,Long March 7/YZ-1A,Demo Flight,Active,,Success
+3898,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2016,03:21:00,Long March 4B,Shijian 16-02,Active,64.68,Success
+3903,CASC,"LC-3, Xichang Satellite Launch Center, China",2016,16:22:00,Long March 3B/E,Tiantong-1 01,Active,29.15,Success
+3904,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2016,22:55:00,Long March 4C,Gaofen-3,Active,64.68,Success
+3906,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2016,17:40:00,Long March 2D,"QUESS, Lixing-1, & 3CAT 2",Active,29.75,Success
+3909,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2016,18:50:00,Long March 4C,Gaofen-10,Active,64.68,Failure
+3914,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2016,14:04:00,Long March 2F/T,Tiangong-2,Active,,Success
+3919,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2016,23:30:00,Long March 2F/G,Shenzhou 11,Active,,Success
+3923,CASC,"LC-101, Wenchang Satellite Launch Center, China",2016,12:42:00,Long March 5/YZ-2,Shijian-17,Active,,Success
+3924,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2016,23:42:00,Long March 11,"XPNAV 1, Xiaoxiang 1 & Others",Active,5.3,Success
+3926,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2016,23:14:00,Long March 2D,Yunhai-1,Active,29.75,Success
+3930,CASC,"LC-2, Xichang Satellite Launch Center, China",2016,15:24:00,Long March 3C/E,Tianlian I-04,Active,20,Success
+3936,CASC,"LC-3, Xichang Satellite Launch Center, China",2016,16:11:00,Long March 3B/E,Fengyun 4A,Active,29.15,Success
+3940,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2016,19:22:00,Long March 2D,"TanSat & Spark 1, 2",Active,29.75,Success
+3942,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2016,03:23:00,Long March 2D,"SuperView-1 1, 2 & Bayi Kepu 1",Active,29.75,Partial Failure
+3943,CASC,"LC-2, Xichang Satellite Launch Center, China",2017,15:18:00,Long March 3B/E,TJS 2,Active,29.15,Success
+3961,CASC,"LC-2, Xichang Satellite Launch Center, China",2017,11:04:00,Long March 3B/E,Shijian 13,Active,29.15,Success
+3964,CASC,"LC-201, Wenchang Satellite Launch Center, China",2017,11:41:00,Long March 7/YZ-1A,Tianzhou 1,Active,,Success
+3978,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2017,03:15:00,Long March 4B,HXMT & Others,Active,64.68,Success
+3979,CASC,"LC-2, Xichang Satellite Launch Center, China",2017,16:12:00,Long March 3B/E,ChinaSat 9A,Active,29.15,Partial Failure
+3985,CASC,"LC-101, Wenchang Satellite Launch Center, China",2017,11:23:00,Long March 5,Shijian-18,Active,,Failure
+4004,CASC,"LC-3, Xichang Satellite Launch Center, China",2017,04:21:00,Long March 2C,"Yaogan-30 A, B & C",Active,30.8,Success
+4006,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2017,04:13:00,Long March 2D,VRSS-2,Active,29.75,Success
+4015,CASC,"LC-2, Xichang Satellite Launch Center, China",2017,11:45:00,Long March 3B/YZ-1,BeiDou-3 M1 & M2,Active,,Success
+4018,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2017,18:35:00,Long March 4C,Fengyun 3D,Active,64.68,Success
+4020,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2017,04:50:00,Long March 6,"Jilin-1 Video 04, 05 & 06",Active,19,Success
+4021,CASC,"LC-3, Xichang Satellite Launch Center, China",2017,18:10:00,Long March 2C,"Yaogan-30 D, E, & F",Active,30.8,Success
+4024,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2017,04:11:00,Long March 2D,LKW-1,Active,29.75,Success
+4025,CASC,"LC-2, Xichang Satellite Launch Center, China",2017,16:41:00,Long March 3B/E,Alcomsat-1,Active,29.15,Success
+4032,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2017,04:14:00,Long March 2D,LKW-2,Active,29.75,Success
+4033,CASC,"LC-3, Xichang Satellite Launch Center, China",2017,19:44:00,Long March 2C,"Yaogan-30 G, H & I",Active,30.8,Success
+4036,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2018,03:24:00,Long March 2D,SuperView 03 & 04,Active,29.75,Success
+4037,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,23:18:00,Long March 3B/YZ-1,BeiDou-3 M7 & M8,Active,,Success
+4040,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,07:20:00,Long March 2D,LKW-3,Active,29.75,Success
+4042,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2018,04:12:00,Long March 11,"Jilin-1 07, 08 & Others",Active,5.3,Success
+4045,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,05:39:00,Long March 2C,"Yaogan 30 J, K & L",Active,30.8,Success
+4049,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,07:50:00,Long March 2D,CSES & Rideshares,Active,29.75,Success
+4052,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,05:10:00,Long March 3B/YZ-1,BeiDou-3 M3 & M4,Active,,Success
+4059,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,07:10:00,Long March 2D,LKW-4,Active,29.75,Success
+4063,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,17:50:00,Long March 3B/YZ-1,BeiDou-3 M9 & M10,Active,,Success
+4065,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2018,03:22:00,Long March 4C,Gaofen-1 02-04,Active,64.68,Success
+4068,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,04:25:00,Long March 4C,"Yaogan 31 A, B, & C",Active,64.68,Success
+4074,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2018,04:42:00,Long March 11,Zhuhai-1 2A to 2D,Active,5.3,Success
+4076,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,16:05:00,Long March 3B/E,Apstar 6C,Active,29.15,Success
+4078,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2018,18:28:00,Long March 4C,Gaofen 5,Active,64.68,Success
+4080,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,21:28:00,Long March 4C,"Queqiao, Longjiang 1 & 2",Active,64.68,Success
+4083,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,04:13:00,Long March 2D,Gaofen 6 & Luojia 1,Active,29.75,Success
+4085,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,13:07:00,Long March 3A,Fengyun 2H,Active,69.7,Success
+4089,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,03:30:00,Long March 2C,XJSS A & B,Active,30.8,Success
+4091,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,03:56:00,Long March 2C,PRSS-1 & PakTES-1A,Active,30.8,Success
+4092,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,20:50:00,Long March 3A,BeiDou-2 I7,Active,69.7,Success
+4098,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,01:48:00,Long March 3B/YZ-1,BeiDou-3 M5 & M6,Active,,Success
+4099,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2018,03:00:00,Long March 4B,Gaofen 11,Active,64.68,Success
+4103,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,23:52:00,Long March 3B/YZ-1,BeiDou-3 M11 & M12,Active,,Success
+4105,CASC,"Taiyuan Satellite Launch Center, China",2018,03:15:00,Long March 2C,Haiyang 1C (HY-1C),Active,30.8,Success
+4109,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,14:07:00,Long March 3B/YZ-1,BeiDou-3 M13 & M14,Active,,Success
+4114,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,02:43:00,Long March 2C,Yaogan-32 Group 01,Active,30.8,Success
+4116,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,04:23:00,Long March 3B/YZ-1,BeiDou-3 M15 & M16,Active,,Success
+4119,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2018,22:57:00,Long March 4B,Haiyang-2B,Active,64.68,Success
+4122,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,00:47:00,Long March 2C,"CFOSAT, Zhaojin-1, Hongyan-1, & Others",Active,30.8,Success
+4124,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,15:57:00,Long March 3B/E,Beidou-3 G1,Active,29.15,Success
+4132,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,18:07:00,Long March 3B/YZ-1,BeiDou-3 M17 & M18,Active,,Success
+4133,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,23:40:00,Long March 2D,"Shiyan-6, Jiading-1 (OKW-01), & Others",Active,29.75,Success
+4141,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,04:12:00,Long March 2D,"SaudiSAT 5A, & 5B and Others",Active,29.75,Success
+4142,CASC,"LC-2, Xichang Satellite Launch Center, China",2018,18:23:00,Long March 3B/E,Chang'e-4,Active,29.15,Success
+4147,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2018,23:51:00,Long March 11,Hongyun-1,Active,5.3,Success
+4149,CASC,"LC-3, Xichang Satellite Launch Center, China",2018,16:53:00,Long March 3C/E,TJS-3,Active,20,Success
+4151,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2018,08:02:00,Long March 2D/YZ-3,Hongyan-1,Active,,Success
+4152,CASC,"LC-2, Xichang Satellite Launch Center, China",2019,17:11:00,Long March 3B/E,Zhongxing-2D (Chinasat-2D),Active,29.15,Success
+4157,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2019,05:42:00,Long March 11,Jilin-1 Hyperspectral & Others,Active,5.3,Success
+4167,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,16:28:00,Long March 3B/E,Zhongxing-6C,Active,29.15,Success
+4173,CASC,"LC-2, Xichang Satellite Launch Center, China",2019,15:51:00,Long March 3B/E,Tianlian-2,Active,29.15,Success
+4179,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,14:30:00,Long March 3B/E,Beidou-3 IGSO-1,Active,29.15,Success
+4180,CASC,"Taiyuan Satellite Launch Center, China",2019,22:52:00,Long March 4B,Tianhui-2 Group 01,Active,64.68,Success
+4184,CASC,"LC-2, Xichang Satellite Launch Center, China",2019,15:48:00,Long March 3C/E,Beidou-2 G8,Active,20,Success
+4186,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2019,22:55:00,Long March 4C,Yaogan Weixing-33,Active,64.68,Failure
+4190,CASC,"Tai Rui Barge, Yellow Sea",2019,04:06:00,Long March 11H,Jilin-1 & Others,Active,5.3,Success
+4193,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,18:09:00,Long March 3B/E,Beidou-3 IGSO-2,Active,29.15,Success
+4205,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,03:57:00,Long March 2C,Yaogan-30-05,Active,30.8,Success
+4212,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2019,04:11:00,Jielong-1,Tianqi-4 & Others,Active,7.5,Success
+4213,CASC,"LC-2, Xichang Satellite Launch Center, China",2019,12:03:00,Long March 3B/E,ChinaSat 18,Active,29.15,Success
+4220,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2019,03:26:00,Long March 4B,"Ziyuan-2D, BNU-1 & Taurus-1",Active,64.68,Success
+4221,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2019,06:42:00,Long March 11,Zhuhai-1 Group 03,Active,5.3,Success
+4222,CASC,"LC-2, Xichang Satellite Launch Center, China",2019,21:10:00,Long March 3B/YZ-1,BeiDou-3 M23 & M24,Active,,Success
+4224,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2019,00:54:00,Long March 2D,Yunhai-1-02,Active,29.75,Success
+4227,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2019,18:51:00,Long March 4C,Gaofen 10 (Replacement),Active,64.68,Success
+4231,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,15:21:00,Long March 3B/E,TJSW-4,Active,29.15,Success
+4234,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2019,03:22:00,Long March 4B,Gaofen-7,Active,64.68,Success
+4235,CASC,"LC-2, Xichang Satellite Launch Center, China",2019,17:43:00,Long March 3B/E,Beidou-3 IGSO-3,Active,29.15,Success
+4238,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2019,06:35:00,Long March 6,Ningxia-1 (x5),Active,19,Success
+4240,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,00:55:00,Long March 3B/YZ-1,BeiDou-3 M21 & M22,Active,,Success
+4244,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2019,23:52:00,Long March 4C,Gaofen-12,Active,64.68,Success
+4253,CASC,"LC-3, Xichang Satellite Launch Center, China",2019,07:22:00,Long March 3B/YZ-1,BeiDou-3 M19 & M20,Active,,Success
+4256,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2019,03:22:00,Long March 4B,"CBERS-4A, ETRSS-1 & Others",Active,64.68,Success
+4260,CASC,"LC-101, Wenchang Satellite Launch Center, China",2019,12:45:00,Long March 5,Shijian-20,Active,,Success
+4262,CASC,"LC-2, Xichang Satellite Launch Center, China",2020,15:20:00,Long March 3B/E,TJSW-5,Active,29.15,Success
+4263,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020,02:53:00,Long March 2D,Jilin-1 Wideband 01 & ??uSat-7/8,Active,29.75,Success
+4276,CASC,"LC-3, Xichang Satellite Launch Center, China",2020,21:07:00,Long March 2D,XJS-C to F,Active,29.75,Success
+4279,CASC,"LC-2, Xichang Satellite Launch Center, China",2020,11:55:00,Long March 3B/E,Beidou-3 G2,Active,29.15,Success
+4280,CASC,"LC-201, Wenchang Satellite Launch Center, China",2020,13:34:00,Long March 7A,XJY-6,Active,,Failure
+4284,CASC,"LC-3, Xichang Satellite Launch Center, China",2020,03:43:00,Long March 2C,Yaogan-30-06,Active,30.8,Success
+4287,CASC,"LC-2, Xichang Satellite Launch Center, China",2020,11:46:00,Long March 3B/E,Nusantara Dua,Active,29.15,Failure
+4291,CASC,"LC-101, Wenchang Satellite Launch Center, China",2020,10:00:00,Long March 5B,Test Flight (New Crew Capsule),Active,,Success
+4297,CASC,"Xichang Satellite Launch Center, China",2020,20:13:00,Long March 11,XJS-G and XJS-H,Active,5.3,Success
+4299,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,08:53:00,Long March 2D,Gaofen-9-02 & HEAD-4,Active,29.75,Success
+4301,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020,18:31:00,Long March 2C,Haiyang-1D,Active,30.8,Success
+4304,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,07:19:00,Long March 2D,"Gaofen-9 03, Pixing III A & HEAD-5",Active,29.75,Success
+4305,CASC,"LC-2, Xichang Satellite Launch Center, China",2020,01:43:00,Long March 3B/E,Beidou-3 G3,Active,29.15,Success
+4307,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020,03:10:00,Long March 4B,Gaofen Duomo & BY-02,Active,64.68,Success
+4309,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,23:44:00,Long March 2D,Shiyan-6 02,Active,29.75,Success
+4311,CASC,"LC-3, Xichang Satellite Launch Center, China",2020,12:11:00,Long March 3B/E,Apstar-6D,Active,29.15,Success
+4316,CASC,"LC-101, Wenchang Satellite Launch Center, China",2020,04:41:00,Long March 5,Tianwen-1,Active,,Success
+4318,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020,03:13:00,Long March 4B,"Ziyuan-3 03, Apocalypse-10 & NJU-HKU 1",Active,64.68,Success
+4322,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,04:01:00,Long March 2D,Gaofen-9 04 & Q-SAT,Active,29.75,Success
+4326,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,02:27:00,Long March 2D,"Gaofen-9 05, Tiantuo-5 & MTS",Active,29.75,Success
+4331,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2020,07:30:00,Long March 2F/T,Experimental Spaceplane (CSSHQ),Active,,Success
+4332,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020,05:57:00,Long March 4B,Gaofen-11 02,Active,64.68,Success
+4335,CASC,"DeBo 3 Barge, Yellow Sea",2020,01:23:00,Long March 11H,Jilin-1 High Resolution 03,Active,5.3,Success
+4336,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,05:40:00,Long March 4B,Haiyang 2C,Active,64.68,Success
+4337,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2020,03:23:00,Long March 4B,Huanjing-2A & 2B,Active,64.68,Success
+4341,CASC,"LC-2, Xichang Satellite Launch Center, China",2020,16:57:00,Long March 3B/E,Gaofen-13,Active,29.15,Success
+4347,CASC,"LC-3, Xichang Satellite Launch Center, China",2020,15:19:00,Long March 2C,Yaogan-30 07 & Apocalypse-6,Active,30.8,Success
+4350,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2020,03:19:00,Long March 6,ÃuSat 9 to 18 & Others,Active,19,Success
+4353,CASC,"LC-2, Xichang Satellite Launch Center, China",2020,15:59:00,Long March 3B/E,Tiantong-1 02,Active,29.15,Success
+4359,CASC,"LC-101, Wenchang Satellite Launch Center, China",2020,20:30:00,Long March 5,Chang'e 5,Active,,Success
+4364,CASC,"LC-3, Xichang Satellite Launch Center, China",2020,03:58:00,Long March 3B/E,Gaofen 14,Active,29.15,Success
+4366,CASC,"Xichang Satellite Launch Center, China",2020,20:14:00,Long March 11,GECAM 1 & 2,Active,5.3,Success
+4377,CASC,"LC-201, Wenchang Satellite Launch Center, China",2020,04:37:00,Long March 8,"XJY-7, Haisi-1 & Others",Active,27,Success
+4378,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2020,15:44:00,Long March 4C,Yaogan-33(R) & Weina 2,Active,64.68,Success
+4383,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,16:25:00,Long March 3B/E,Tiantong-1 03,Active,29.15,Success
+4387,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,04:47:00,Long March 4C,Yaogan-31 02,Active,64.68,Success
+4393,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,15:36:00,Long March 3B/E,-TJSÂ 6.00,Active,29.15,Success
+4397,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,02:22:00,Long March 4C,Yaogan-31 03,Active,64.68,Success
+4403,CASC,"LC-201, Wenchang Satellite Launch Center, China",2021,17:51:00,Long March 7A,Shiyan 9,Active,,Success
+4404,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,02:19:00,Long March 4C,Yaogan-31 04,Active,64.68,Success
+4411,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,22:45:00,Long March 4C,Gaofen-12 02,Active,64.68,Success
+4413,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,23:01:00,Long March 4B,Shiyan-6 03,Active,64.68,Success
+4419,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2021,03:20:00,Long March 6,"Qilu-1, 4 & Rideshares",Active,19,Success
+4421,CASC,"LC-101, Wenchang Satellite Launch Center, China",2021,03:23:00,Long March 5B,Tianhe,Active,,Success
+4423,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,07:27:00,Long March 4C,Yaogan 34,Active,64.68,Success
+4426,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,18:11:00,Long March 2C/E,Yaogan-30 08 & Apocalypse 12,Active,30.8,Success
+4431,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,04:03:00,Long March 4B,Haiyang 2D,Active,64.68,Success
+4435,CASC,"LC-201, Wenchang Satellite Launch Center, China",2021,12:55:00,Long March 7,Tianzhou 2,Active,,Success
+4436,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,16:17:00,Long March 3B/E,Fengyun-4B,Active,29.15,Success
+4439,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,03:03:00,Long March 2D,"Beijing-3, Haisi-2 & Others",Active,29.75,Success
+4442,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2021,01:22:00,Long March 2F/G,Shenzhou 12,Active,,Success
+4444,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,06:30:00,Long March 2C/E,Yaogan-30 09 & Apocalypse 14,Active,30.8,Success
+4450,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,02:51:00,Long March 2D,Jilin-1 Wideband-01B & High Resolution 03D,Active,29.75,Success
+4451,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,23:28:00,Long March 4C,Fengyun-3E,Active,64.68,Success
+4452,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,15:53:00,Long March 3C/E,Tianlian 1-05,Active,20,Success
+4453,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2021,11:59:00,Long March 6,Zhongzi Group 02 (Ningxia-1-02),Active,19,Success
+4455,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,00:19:00,Long March 2C/E,Yaogan-30 10,Active,30.8,Success
+4458,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,04:01:00,Long March 2D,Tianhui-1 04,Active,29.75,Success
+4462,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2021,11:01:00,Long March 6,KL-Beta A & B,Active,19,Success
+4463,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,16:30:00,Long March 3B/E,Zhongxing-2E,Active,29.15,Success
+4467,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,22:32:00,Long March 4B,Tianhui-2 2A & 2B,Active,64.68,Success
+4469,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,11:15:00,Long March 2C/YZ-1S,RSW-01 - 03,Active,30.8,Success
+4470,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,15:41:00,Long March 3B/E,TJSW-7,Active,29.15,Success
+4475,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,03:01:00,Long March 4C,Gaofen-5 02,Active,64.68,Success
+4476,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,11:50:00,Long March 3B/E,ChinaSat 9B (Zhongxing-9B),Active,29.15,Success
+4481,CASC,"LC-201, Wenchang Satellite Launch Center, China",2021,07:10:00,Long March 7,Tianzhou 3,Active,,Success
+4483,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,08:20:00,Long March 3B/E,Shiyan 10,Active,29.15,Success
+4488,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,10:51:00,Long March 2D,CHASE (Chinese HÎ± Solar Explorer) & Tianyuan-1,Active,29.75,Success
+4489,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2021,16:23:00,Long March 2F/G,Shenzhou 13,Active,,Success
+4492,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,01:27:00,Long March 3B/E,Shijian 21,Active,29.15,Success
+4497,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,07:43:00,Long March 2C/YZ-1S,Yaogan-32 02,Active,30.8,Success
+4498,CASC,"LC-16, Taiyuan Satellite Launch Center, China",2021,02:19:00,Long March 6,SDGSAT-1,Active,19,Success
+4499,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,03:00:00,Long March 2D,Yaogan 35 A/B/C,Active,29.75,Success
+4505,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,01:51:00,Long March 4B,Gaofen-11 03,Active,64.68,Success
+4507,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,23:45:00,Long March 4C,Gaofen-3 02,Active,64.68,Success
+4512,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,16:40:00,Long March 3B/E,ChinaSat 1D,Active,29.15,Success
+4520,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,00:11:00,Long March 4B,Shijian 6 Group 05,Active,64.68,Success
+4523,CASC,"LC-3, Xichang Satellite Launch Center, China",2021,16:09:00,Long March 3B/E,Tianlian-2-02,Active,29.15,Success
+4529,CASC,"LC-201, Wenchang Satellite Launch Center, China",2021,10:12:00,Long March 7A,Shiyan 12-01 & 02,Active,,Success
+4531,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2021,03:11:00,Long March 4C,Ziyuan-1 02E & CAS-9,Active,64.68,Success
+4534,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2021,11:13:00,Long March 2D,Tianhui 4,Active,29.75,Success
+4535,CASC,"LC-2, Xichang Satellite Launch Center, China",2021,16:43:00,Long March 3B/E,TJSW-9,Active,29.15,Success
+4540,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2022,02:35:00,Long March 2D,Shiyan 13,Active,29.75,Success
+4543,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,23:44:00,Long March 4C,L-SAR 01A,Active,64.68,Success
+4555,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,23:44:00,Long March 4C,L-SAR 01B,Active,64.68,Success
+4556,CASC,"LC-201, Wenchang Satellite Launch Center, China",2022,03:06:00,Long March 8 (Core Only),"Hainan-1, Jilin Gaofen-03D & Others",Active,27,Success
+4560,CASC,"LC-3, Xichang Satellite Launch Center, China",2022,06:01:00,Long March 2C,Yinhe-1 (x6) & Others,Active,30.8,Success
+4564,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,07:09:00,Long March 4C,Yaogan 34-02,Active,64.68,Success
+4568,CASC,"LC-9A, Taiyuan Satellite Launch Center, China",2022,09:50:00,Long March 6A,Pujiang-2 & Tiankun-2,Active,,Success
+4569,CASC,"Site 95, Jiuquan Satellite Launch Center, China",2022,02:29:00,Long March 11,Tianping-2 A to C,Active,5.3,Success
+4573,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,23:47:00,Long March 4C,Gaofen-3 03,Active,64.68,Success
+4576,CASC,"LC-2, Xichang Satellite Launch Center, China",2022,12:00:00,Long March 3B/E,ChinaSat 6D,Active,29.15,Success
+4577,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2022,18:16:00,Long March 4C,Daqi-1 (AEMS),Active,64.68,Success
+4581,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,04:11:00,Long March 2C,SuperView Neo 1-01 & 02,Active,30.8,Success
+4584,CASC,"Tai Rui Barge, Yellow Sea",2022,03:30:00,Long March 11H,Jilin-1 Gaofen 03D-04 to 07 & 04A,Active,5.3,Success
+4586,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2022,02:38:00,Long March 2D,Jilin-1 Wideband-01C & High Resolution 03D-27 to 33,Active,29.75,Success
+4588,CASC,"LC-201, Wenchang Satellite Launch Center, China",2022,17:56:00,Long March 7,Tianzhou 4,Active,,Success
+4595,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,10:30:00,Long March 2C/YZ-1S,RSW-04 - 06,Active,30.8,Success
+4597,CASC,"LC-3, Xichang Satellite Launch Center, China",2022,04:00:00,Long March 2C,Geely Constellation Group 01,Active,30.8,Success
+4600,CASC,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China",2022,02:44:00,Long March 2F/G,Shenzhou 14,Active,,Success
+4608,CASC,"LC-3, Xichang Satellite Launch Center, China",2022,02:22:00,Long March 2D,Yaogan 35 Group 02,Active,29.75,Success
+4609,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China",2022,15:46:00,Long March 4C,Gaofen-12 03,Active,64.68,Success
+4618,CASC,"LC-2, Xichang Satellite Launch Center, China",2022,16:30:00,Long March 3B/E,Tianlian-2-03,Active,29.15,Success
+4623,CASC,"LC-9, Taiyuan Satellite Launch Center, China",2022,22:57:00,Long March 2C,SuperView Neo 2-01 & 02,Active,30.8,Success
+4626,CASC,"LC-101, Wenchang Satellite Launch Center, China",2022,06:22:00,Long March 5B,Wentian,Active,,Success
+4629,CASC,"LC-3, Xichang Satellite Launch Center, China",2022,13:28:00,Long March 2D,Yaogan 35 Group 03,Active,29.75,Success

@@ -1,0 +1,9 @@
+,name,mass,rotation_period,confirmed_moons,rings,atmosphere
+0,Mercury,0.06,58.64,0,no,"H,He,0"
+1,Venus,0.82,−243.02,0,no,"CO2, N2"
+2,Earth,1.0,1,1,no,"N2, O2, Ar"
+3,Mars,0.11,1.03,2,no,"CO2, N2, Ar"
+4,Jupiter,317.8,0.41,79,yes,"H2, He"
+5,Saturn,95.2,0.43,82,yes,"H2, He"
+6,Uranus,14.6,−0.72,27,yes,"H2, He, CH4"
+7,Neptune,17.2,0.67,14,yes,"H2, He, CH4"
