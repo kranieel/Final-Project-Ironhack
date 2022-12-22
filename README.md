@@ -2,9 +2,9 @@ En éste proyecto tratamos de resolver las siguientes preguntas con distintas Ba
 
    -¿Cuántos meteoritos han caído los últimos años en la Tierra?
    
-   -¿Hay probabilidades reales de que un Meterito acabe con nuestra existencia?
+   -¿Hay probabilidades reales de que un meteorito acabe con nuestra existencia?
    
-   -¿Sí éso llega a suceder que podemos hacer?¿A donde podemos ir?
+   -¿Sí eso llega a suceder que podemos hacer?¿A donde podemos ir?
    
    -¿Qué compañía tiene más probabilidad de que siga haciendo lanzamientos y por lo tanto podamos huir en uno de sus cohetes?
    
